@@ -1,0 +1,49 @@
+[
+  {
+    "id": "JSHINT-code-analysis-feature",
+    "uri": "features/JSHINT-code-analysis.feature",
+    "keyword": "Feature",
+    "name": "JSHINT code analysis",
+    "line": 1,
+    "description": "As a developer\nI want to ensure JSHINT code analysis standards are met\nSo that my code is conformant with technical standards designed to ensure consistency and readability",
+    "elements": [
+      {
+        "id": "index.js",
+        "keyword": "Scenario",
+        "name": "JSHint - index.js",
+        "line": 3,
+        "description": " - C:\\Atlassian\\NPM\\cellarise-package-manager\\Auto_Build\\lib\\index.js",
+        "type": "scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 0,
+              "status": "passed"
+            },
+            "name": "a Javascript file and the repositories default JSHint configuration file",
+            "keyword": "Given ",
+            "line": 4
+          },
+          {
+            "result": {
+              "duration": 0,
+              "status": "passed"
+            },
+            "name": "analysed using JSHint",
+            "keyword": "When ",
+            "line": 5
+          },
+          {
+            "result": {
+              "duration": 0,
+              "status": "passed"
+            },
+            "name": "the file should meet the defined coding standards",
+            "keyword": "Then ",
+            "line": 6
+          }
+        ]
+      }
+    ]
+  }
+]
