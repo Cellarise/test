@@ -5,25 +5,30 @@
     "passes": 28,
     "pending": 0,
     "failures": 2,
-    "start": "2014-09-30T13:01:44.397Z",
-    "end": "2014-09-30T13:01:48.137Z",
-    "duration": 3.74
+    "start": "2014-09-30T13:06:56.852Z",
+    "end": "2014-09-30T13:07:01.011Z",
+    "duration": 4.159
   },
   "failures": [
-    {
-      "title": "run-sequence",
-      "fullTitle": "Dev dependencies: run-sequence",
-      "duration": 0,
-      "error": "run-sequence | Required: ^0.3.6 Stable: 1.0.0"
-    },
     {
       "title": "through2",
       "fullTitle": "Dev dependencies: through2",
       "duration": 0,
       "error": "through2 | Required: ^0.6.1 Stable: 0.6.2"
+    },
+    {
+      "title": "run-sequence",
+      "fullTitle": "Dev dependencies: run-sequence",
+      "duration": 0,
+      "error": "run-sequence | Required: ^0.3.6 Stable: 1.0.0"
     }
   ],
   "passes": [
+    {
+      "title": "async",
+      "fullTitle": "undefined: async",
+      "duration": 0
+    },
     {
       "title": "david",
       "fullTitle": "undefined: david",
@@ -37,16 +42,6 @@
     {
       "title": "gulp",
       "fullTitle": "undefined: gulp",
-      "duration": 0
-    },
-    {
-      "title": "gulp-async-func-runner",
-      "fullTitle": "undefined: gulp-async-func-runner",
-      "duration": 0
-    },
-    {
-      "title": "gulp-concat",
-      "fullTitle": "undefined: gulp-concat",
       "duration": 0
     },
     {
@@ -70,8 +65,23 @@
       "duration": 0
     },
     {
+      "title": "gulp-load-params",
+      "fullTitle": "undefined: gulp-load-params",
+      "duration": 0
+    },
+    {
       "title": "gulp-json-editor",
       "fullTitle": "undefined: gulp-json-editor",
+      "duration": 0
+    },
+    {
+      "title": "gulp-concat",
+      "fullTitle": "undefined: gulp-concat",
+      "duration": 0
+    },
+    {
+      "title": "gulp-util",
+      "fullTitle": "undefined: gulp-util",
       "duration": 0
     },
     {
@@ -90,6 +100,16 @@
       "duration": 0
     },
     {
+      "title": "gulp-async-func-runner",
+      "fullTitle": "undefined: gulp-async-func-runner",
+      "duration": 0
+    },
+    {
+      "title": "gulp-yadda-steps",
+      "fullTitle": "undefined: gulp-yadda-steps",
+      "duration": 0
+    },
+    {
       "title": "jshint-reporter-bamboo",
       "fullTitle": "undefined: jshint-reporter-bamboo",
       "duration": 0
@@ -100,18 +120,13 @@
       "duration": 0
     },
     {
-      "title": "node-dir-diff",
-      "fullTitle": "undefined: node-dir-diff",
-      "duration": 0
-    },
-    {
-      "title": "gulp-util",
-      "fullTitle": "undefined: gulp-util",
-      "duration": 0
-    },
-    {
       "title": "mocha-bamboo-reporter-bgo",
       "fullTitle": "undefined: mocha-bamboo-reporter-bgo",
+      "duration": 0
+    },
+    {
+      "title": "node-dir-diff",
+      "fullTitle": "undefined: node-dir-diff",
       "duration": 0
     },
     {
@@ -125,23 +140,18 @@
       "duration": 0
     },
     {
-      "title": "gulp-yadda-steps",
-      "fullTitle": "undefined: gulp-yadda-steps",
-      "duration": 0
-    },
-    {
       "title": "should",
       "fullTitle": "undefined: should",
       "duration": 0
     },
     {
-      "title": "gulp-load-params",
-      "fullTitle": "undefined: gulp-load-params",
+      "title": "underscore",
+      "fullTitle": "undefined: underscore",
       "duration": 0
     },
     {
-      "title": "async",
-      "fullTitle": "undefined: async",
+      "title": "yadda",
+      "fullTitle": "undefined: yadda",
       "duration": 0
     },
     {
@@ -152,16 +162,6 @@
     {
       "title": "webpack",
       "fullTitle": "undefined: webpack",
-      "duration": 0
-    },
-    {
-      "title": "yadda",
-      "fullTitle": "undefined: yadda",
-      "duration": 0
-    },
-    {
-      "title": "underscore",
-      "fullTitle": "undefined: underscore",
       "duration": 0
     }
   ],
