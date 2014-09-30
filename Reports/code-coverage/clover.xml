@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1412082893635" clover="3.2.0">
-	<project timestamp="1412082893635"  name="All Files" >
+<coverage generated="1412083386066" clover="3.2.0">
+	<project timestamp="1412083386066"  name="All Files" >
 		<metrics statements="2"  coveredstatements="2"  conditionals="0"  coveredconditionals="0"  methods="1"  coveredmethods="1"  elements="3"  coveredelements="3"  complexity="0"  packages="1"  files="1"  classes="1"  loc="15"  ncloc="4" />
 		<package name="lib" >
 			<metrics statements="2"  coveredstatements="2"  conditionals="0"  coveredconditionals="0"  methods="1"  coveredmethods="1" />
-			<file name="index.js"  path="C:\Atlassian\NPM\cellarise-package-manager\Auto_Build\lib\index.js" >
+			<file name="index.js"  path="C:\bamboo\SRC\CELLARISE-MDBLDGEN-JOB1\Auto_Build\lib\index.js" >
 				<metrics statements="2"  coveredstatements="2"  conditionals="0"  coveredconditionals="0"  methods="1"  coveredmethods="1" />
 				<line num="13"  count="1"  type="stmt" />
 				<line num="14"  count="3"  type="stmt" />
