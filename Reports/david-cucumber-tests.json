@@ -8,11 +8,11 @@
     "description": "As a developer\nI want to keep my package dependencies up to date\nSo that my package is up to date with bug fixes and security patches",
     "elements": [
       {
-        "id": "glob",
+        "id": "async",
         "keyword": "Scenario",
-        "name": "undefined - glob",
+        "name": "undefined - async",
         "line": 3,
-        "description": "undefined - glob",
+        "description": "undefined - async",
         "type": "scenario",
         "steps": [
           {
@@ -20,7 +20,7 @@
               "duration": 0,
               "status": "passed"
             },
-            "name": "the package dependency glob",
+            "name": "the package dependency async",
             "keyword": "Given ",
             "line": 4
           },
@@ -45,11 +45,11 @@
         ]
       },
       {
-        "id": "async",
+        "id": "glob",
         "keyword": "Scenario",
-        "name": "undefined - async",
+        "name": "undefined - glob",
         "line": 3,
-        "description": "undefined - async",
+        "description": "undefined - glob",
         "type": "scenario",
         "steps": [
           {
@@ -57,7 +57,7 @@
               "duration": 0,
               "status": "passed"
             },
-            "name": "the package dependency async",
+            "name": "the package dependency glob",
             "keyword": "Given ",
             "line": 4
           },
@@ -156,117 +156,6 @@
         ]
       },
       {
-        "id": "gulp-istanbul-custom-reports",
-        "keyword": "Scenario",
-        "name": "undefined - gulp-istanbul-custom-reports",
-        "line": 3,
-        "description": "undefined - gulp-istanbul-custom-reports",
-        "type": "scenario",
-        "steps": [
-          {
-            "result": {
-              "duration": 0,
-              "status": "passed"
-            },
-            "name": "the package dependency gulp-istanbul-custom-reports",
-            "keyword": "Given ",
-            "line": 4
-          },
-          {
-            "result": {
-              "duration": 0,
-              "status": "passed"
-            },
-            "name": "analysed using David",
-            "keyword": "When ",
-            "line": 5
-          },
-          {
-            "result": {
-              "duration": 0,
-              "status": "passed"
-            },
-            "name": "the dependency should be current",
-            "keyword": "Then ",
-            "line": 6
-          }
-        ]
-      },
-      {
-        "id": "gulp-jsdoc-to-markdown",
-        "keyword": "Scenario",
-        "name": "undefined - gulp-jsdoc-to-markdown",
-        "line": 3,
-        "description": "undefined - gulp-jsdoc-to-markdown",
-        "type": "scenario",
-        "steps": [
-          {
-            "result": {
-              "duration": 0,
-              "status": "passed"
-            },
-            "name": "the package dependency gulp-jsdoc-to-markdown",
-            "keyword": "Given ",
-            "line": 4
-          },
-          {
-            "result": {
-              "duration": 0,
-              "status": "passed"
-            },
-            "name": "analysed using David",
-            "keyword": "When ",
-            "line": 5
-          },
-          {
-            "result": {
-              "duration": 0,
-              "status": "passed"
-            },
-            "name": "the dependency should be current",
-            "keyword": "Then ",
-            "line": 6
-          }
-        ]
-      },
-      {
-        "id": "gulp-dust-compile-render",
-        "keyword": "Scenario",
-        "name": "undefined - gulp-dust-compile-render",
-        "line": 3,
-        "description": "undefined - gulp-dust-compile-render",
-        "type": "scenario",
-        "steps": [
-          {
-            "result": {
-              "duration": 0,
-              "status": "passed"
-            },
-            "name": "the package dependency gulp-dust-compile-render",
-            "keyword": "Given ",
-            "line": 4
-          },
-          {
-            "result": {
-              "duration": 0,
-              "status": "passed"
-            },
-            "name": "analysed using David",
-            "keyword": "When ",
-            "line": 5
-          },
-          {
-            "result": {
-              "duration": 0,
-              "status": "passed"
-            },
-            "name": "the dependency should be current",
-            "keyword": "Then ",
-            "line": 6
-          }
-        ]
-      },
-      {
         "id": "gulp-concat",
         "keyword": "Scenario",
         "name": "undefined - gulp-concat",
@@ -304,11 +193,11 @@
         ]
       },
       {
-        "id": "gulp-load-params",
+        "id": "gulp-istanbul-custom-reports",
         "keyword": "Scenario",
-        "name": "undefined - gulp-load-params",
+        "name": "undefined - gulp-istanbul-custom-reports",
         "line": 3,
-        "description": "undefined - gulp-load-params",
+        "description": "undefined - gulp-istanbul-custom-reports",
         "type": "scenario",
         "steps": [
           {
@@ -316,81 +205,7 @@
               "duration": 0,
               "status": "passed"
             },
-            "name": "the package dependency gulp-load-params",
-            "keyword": "Given ",
-            "line": 4
-          },
-          {
-            "result": {
-              "duration": 0,
-              "status": "passed"
-            },
-            "name": "analysed using David",
-            "keyword": "When ",
-            "line": 5
-          },
-          {
-            "result": {
-              "duration": 0,
-              "status": "passed"
-            },
-            "name": "the dependency should be current",
-            "keyword": "Then ",
-            "line": 6
-          }
-        ]
-      },
-      {
-        "id": "gulp-mocha",
-        "keyword": "Scenario",
-        "name": "undefined - gulp-mocha",
-        "line": 3,
-        "description": "undefined - gulp-mocha",
-        "type": "scenario",
-        "steps": [
-          {
-            "result": {
-              "duration": 0,
-              "status": "passed"
-            },
-            "name": "the package dependency gulp-mocha",
-            "keyword": "Given ",
-            "line": 4
-          },
-          {
-            "result": {
-              "duration": 0,
-              "status": "passed"
-            },
-            "name": "analysed using David",
-            "keyword": "When ",
-            "line": 5
-          },
-          {
-            "result": {
-              "duration": 0,
-              "status": "passed"
-            },
-            "name": "the dependency should be current",
-            "keyword": "Then ",
-            "line": 6
-          }
-        ]
-      },
-      {
-        "id": "gulp-util",
-        "keyword": "Scenario",
-        "name": "undefined - gulp-util",
-        "line": 3,
-        "description": "undefined - gulp-util",
-        "type": "scenario",
-        "steps": [
-          {
-            "result": {
-              "duration": 0,
-              "status": "passed"
-            },
-            "name": "the package dependency gulp-util",
+            "name": "the package dependency gulp-istanbul-custom-reports",
             "keyword": "Given ",
             "line": 4
           },
@@ -452,11 +267,11 @@
         ]
       },
       {
-        "id": "gulp-yadda-steps",
+        "id": "david",
         "keyword": "Scenario",
-        "name": "undefined - gulp-yadda-steps",
+        "name": "undefined - david",
         "line": 3,
-        "description": "undefined - gulp-yadda-steps",
+        "description": "undefined - david",
         "type": "scenario",
         "steps": [
           {
@@ -464,7 +279,7 @@
               "duration": 0,
               "status": "passed"
             },
-            "name": "the package dependency gulp-yadda-steps",
+            "name": "the package dependency david",
             "keyword": "Given ",
             "line": 4
           },
@@ -489,11 +304,11 @@
         ]
       },
       {
-        "id": "mkdirp",
+        "id": "gulp-dust-compile-render",
         "keyword": "Scenario",
-        "name": "undefined - mkdirp",
+        "name": "undefined - gulp-dust-compile-render",
         "line": 3,
-        "description": "undefined - mkdirp",
+        "description": "undefined - gulp-dust-compile-render",
         "type": "scenario",
         "steps": [
           {
@@ -501,7 +316,81 @@
               "duration": 0,
               "status": "passed"
             },
-            "name": "the package dependency mkdirp",
+            "name": "the package dependency gulp-dust-compile-render",
+            "keyword": "Given ",
+            "line": 4
+          },
+          {
+            "result": {
+              "duration": 0,
+              "status": "passed"
+            },
+            "name": "analysed using David",
+            "keyword": "When ",
+            "line": 5
+          },
+          {
+            "result": {
+              "duration": 0,
+              "status": "passed"
+            },
+            "name": "the dependency should be current",
+            "keyword": "Then ",
+            "line": 6
+          }
+        ]
+      },
+      {
+        "id": "gulp-load-params",
+        "keyword": "Scenario",
+        "name": "undefined - gulp-load-params",
+        "line": 3,
+        "description": "undefined - gulp-load-params",
+        "type": "scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 0,
+              "status": "passed"
+            },
+            "name": "the package dependency gulp-load-params",
+            "keyword": "Given ",
+            "line": 4
+          },
+          {
+            "result": {
+              "duration": 0,
+              "status": "passed"
+            },
+            "name": "analysed using David",
+            "keyword": "When ",
+            "line": 5
+          },
+          {
+            "result": {
+              "duration": 0,
+              "status": "passed"
+            },
+            "name": "the dependency should be current",
+            "keyword": "Then ",
+            "line": 6
+          }
+        ]
+      },
+      {
+        "id": "gulp-jsdoc-to-markdown",
+        "keyword": "Scenario",
+        "name": "undefined - gulp-jsdoc-to-markdown",
+        "line": 3,
+        "description": "undefined - gulp-jsdoc-to-markdown",
+        "type": "scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 0,
+              "status": "passed"
+            },
+            "name": "the package dependency gulp-jsdoc-to-markdown",
             "keyword": "Given ",
             "line": 4
           },
@@ -563,11 +452,11 @@
         ]
       },
       {
-        "id": "istanbul-reporter-clover-limits",
+        "id": "gulp-util",
         "keyword": "Scenario",
-        "name": "undefined - istanbul-reporter-clover-limits",
+        "name": "undefined - gulp-util",
         "line": 3,
-        "description": "undefined - istanbul-reporter-clover-limits",
+        "description": "undefined - gulp-util",
         "type": "scenario",
         "steps": [
           {
@@ -575,7 +464,118 @@
               "duration": 0,
               "status": "passed"
             },
-            "name": "the package dependency istanbul-reporter-clover-limits",
+            "name": "the package dependency gulp-util",
+            "keyword": "Given ",
+            "line": 4
+          },
+          {
+            "result": {
+              "duration": 0,
+              "status": "passed"
+            },
+            "name": "analysed using David",
+            "keyword": "When ",
+            "line": 5
+          },
+          {
+            "result": {
+              "duration": 0,
+              "status": "passed"
+            },
+            "name": "the dependency should be current",
+            "keyword": "Then ",
+            "line": 6
+          }
+        ]
+      },
+      {
+        "id": "gulp-rename",
+        "keyword": "Scenario",
+        "name": "undefined - gulp-rename",
+        "line": 3,
+        "description": "undefined - gulp-rename",
+        "type": "scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 0,
+              "status": "passed"
+            },
+            "name": "the package dependency gulp-rename",
+            "keyword": "Given ",
+            "line": 4
+          },
+          {
+            "result": {
+              "duration": 0,
+              "status": "passed"
+            },
+            "name": "analysed using David",
+            "keyword": "When ",
+            "line": 5
+          },
+          {
+            "result": {
+              "duration": 0,
+              "status": "passed"
+            },
+            "name": "the dependency should be current",
+            "keyword": "Then ",
+            "line": 6
+          }
+        ]
+      },
+      {
+        "id": "mkdirp",
+        "keyword": "Scenario",
+        "name": "undefined - mkdirp",
+        "line": 3,
+        "description": "undefined - mkdirp",
+        "type": "scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 0,
+              "status": "passed"
+            },
+            "name": "the package dependency mkdirp",
+            "keyword": "Given ",
+            "line": 4
+          },
+          {
+            "result": {
+              "duration": 0,
+              "status": "passed"
+            },
+            "name": "analysed using David",
+            "keyword": "When ",
+            "line": 5
+          },
+          {
+            "result": {
+              "duration": 0,
+              "status": "passed"
+            },
+            "name": "the dependency should be current",
+            "keyword": "Then ",
+            "line": 6
+          }
+        ]
+      },
+      {
+        "id": "gulp-yadda-steps",
+        "keyword": "Scenario",
+        "name": "undefined - gulp-yadda-steps",
+        "line": 3,
+        "description": "undefined - gulp-yadda-steps",
+        "type": "scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 0,
+              "status": "passed"
+            },
+            "name": "the package dependency gulp-yadda-steps",
             "keyword": "Given ",
             "line": 4
           },
@@ -613,6 +613,80 @@
               "status": "passed"
             },
             "name": "the package dependency jshint-reporter-bamboo",
+            "keyword": "Given ",
+            "line": 4
+          },
+          {
+            "result": {
+              "duration": 0,
+              "status": "passed"
+            },
+            "name": "analysed using David",
+            "keyword": "When ",
+            "line": 5
+          },
+          {
+            "result": {
+              "duration": 0,
+              "status": "passed"
+            },
+            "name": "the dependency should be current",
+            "keyword": "Then ",
+            "line": 6
+          }
+        ]
+      },
+      {
+        "id": "istanbul-reporter-clover-limits",
+        "keyword": "Scenario",
+        "name": "undefined - istanbul-reporter-clover-limits",
+        "line": 3,
+        "description": "undefined - istanbul-reporter-clover-limits",
+        "type": "scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 0,
+              "status": "passed"
+            },
+            "name": "the package dependency istanbul-reporter-clover-limits",
+            "keyword": "Given ",
+            "line": 4
+          },
+          {
+            "result": {
+              "duration": 0,
+              "status": "passed"
+            },
+            "name": "analysed using David",
+            "keyword": "When ",
+            "line": 5
+          },
+          {
+            "result": {
+              "duration": 0,
+              "status": "passed"
+            },
+            "name": "the dependency should be current",
+            "keyword": "Then ",
+            "line": 6
+          }
+        ]
+      },
+      {
+        "id": "node-dir-diff",
+        "keyword": "Scenario",
+        "name": "undefined - node-dir-diff",
+        "line": 3,
+        "description": "undefined - node-dir-diff",
+        "type": "scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 0,
+              "status": "passed"
+            },
+            "name": "the package dependency node-dir-diff",
             "keyword": "Given ",
             "line": 4
           },
@@ -712,6 +786,117 @@
         ]
       },
       {
+        "id": "gulp-mocha",
+        "keyword": "Scenario",
+        "name": "undefined - gulp-mocha",
+        "line": 3,
+        "description": "undefined - gulp-mocha",
+        "type": "scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 0,
+              "status": "passed"
+            },
+            "name": "the package dependency gulp-mocha",
+            "keyword": "Given ",
+            "line": 4
+          },
+          {
+            "result": {
+              "duration": 0,
+              "status": "passed"
+            },
+            "name": "analysed using David",
+            "keyword": "When ",
+            "line": 5
+          },
+          {
+            "result": {
+              "duration": 0,
+              "status": "passed"
+            },
+            "name": "the dependency should be current",
+            "keyword": "Then ",
+            "line": 6
+          }
+        ]
+      },
+      {
+        "id": "npm",
+        "keyword": "Scenario",
+        "name": "undefined - npm",
+        "line": 3,
+        "description": "undefined - npm",
+        "type": "scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 0,
+              "status": "passed"
+            },
+            "name": "the package dependency npm",
+            "keyword": "Given ",
+            "line": 4
+          },
+          {
+            "result": {
+              "duration": 0,
+              "status": "passed"
+            },
+            "name": "analysed using David",
+            "keyword": "When ",
+            "line": 5
+          },
+          {
+            "result": {
+              "duration": 0,
+              "status": "passed"
+            },
+            "name": "the dependency should be current",
+            "keyword": "Then ",
+            "line": 6
+          }
+        ]
+      },
+      {
+        "id": "npm-license",
+        "keyword": "Scenario",
+        "name": "undefined - npm-license",
+        "line": 3,
+        "description": "undefined - npm-license",
+        "type": "scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 0,
+              "status": "passed"
+            },
+            "name": "the package dependency npm-license",
+            "keyword": "Given ",
+            "line": 4
+          },
+          {
+            "result": {
+              "duration": 0,
+              "status": "passed"
+            },
+            "name": "analysed using David",
+            "keyword": "When ",
+            "line": 5
+          },
+          {
+            "result": {
+              "duration": 0,
+              "status": "passed"
+            },
+            "name": "the dependency should be current",
+            "keyword": "Then ",
+            "line": 6
+          }
+        ]
+      },
+      {
         "id": "mocha-bamboo-reporter-bgo",
         "keyword": "Scenario",
         "name": "undefined - mocha-bamboo-reporter-bgo",
@@ -749,11 +934,11 @@
         ]
       },
       {
-        "id": "node-dir-diff",
+        "id": "underscore",
         "keyword": "Scenario",
-        "name": "undefined - node-dir-diff",
+        "name": "undefined - underscore",
         "line": 3,
-        "description": "undefined - node-dir-diff",
+        "description": "undefined - underscore",
         "type": "scenario",
         "steps": [
           {
@@ -761,7 +946,7 @@
               "duration": 0,
               "status": "passed"
             },
-            "name": "the package dependency node-dir-diff",
+            "name": "the package dependency underscore",
             "keyword": "Given ",
             "line": 4
           },
@@ -824,11 +1009,11 @@
         ]
       },
       {
-        "id": "yadda",
+        "id": "should",
         "keyword": "Scenario",
-        "name": "undefined - yadda",
+        "name": "undefined - should",
         "line": 3,
-        "description": "undefined - yadda",
+        "description": "undefined - should",
         "type": "scenario",
         "steps": [
           {
@@ -836,7 +1021,7 @@
               "duration": 0,
               "status": "passed"
             },
-            "name": "the package dependency yadda",
+            "name": "the package dependency should",
             "keyword": "Given ",
             "line": 4
           },
@@ -898,11 +1083,11 @@
         ]
       },
       {
-        "id": "npm",
+        "id": "yadda",
         "keyword": "Scenario",
-        "name": "undefined - npm",
+        "name": "undefined - yadda",
         "line": 3,
-        "description": "undefined - npm",
+        "description": "undefined - yadda",
         "type": "scenario",
         "steps": [
           {
@@ -910,192 +1095,7 @@
               "duration": 0,
               "status": "passed"
             },
-            "name": "the package dependency npm",
-            "keyword": "Given ",
-            "line": 4
-          },
-          {
-            "result": {
-              "duration": 0,
-              "status": "passed"
-            },
-            "name": "analysed using David",
-            "keyword": "When ",
-            "line": 5
-          },
-          {
-            "result": {
-              "duration": 0,
-              "status": "passed"
-            },
-            "name": "the dependency should be current",
-            "keyword": "Then ",
-            "line": 6
-          }
-        ]
-      },
-      {
-        "id": "david",
-        "keyword": "Scenario",
-        "name": "undefined - david",
-        "line": 3,
-        "description": "undefined - david",
-        "type": "scenario",
-        "steps": [
-          {
-            "result": {
-              "duration": 0,
-              "status": "passed"
-            },
-            "name": "the package dependency david",
-            "keyword": "Given ",
-            "line": 4
-          },
-          {
-            "result": {
-              "duration": 0,
-              "status": "passed"
-            },
-            "name": "analysed using David",
-            "keyword": "When ",
-            "line": 5
-          },
-          {
-            "result": {
-              "duration": 0,
-              "status": "passed"
-            },
-            "name": "the dependency should be current",
-            "keyword": "Then ",
-            "line": 6
-          }
-        ]
-      },
-      {
-        "id": "gulp-rename",
-        "keyword": "Scenario",
-        "name": "undefined - gulp-rename",
-        "line": 3,
-        "description": "undefined - gulp-rename",
-        "type": "scenario",
-        "steps": [
-          {
-            "result": {
-              "duration": 0,
-              "status": "passed"
-            },
-            "name": "the package dependency gulp-rename",
-            "keyword": "Given ",
-            "line": 4
-          },
-          {
-            "result": {
-              "duration": 0,
-              "status": "passed"
-            },
-            "name": "analysed using David",
-            "keyword": "When ",
-            "line": 5
-          },
-          {
-            "result": {
-              "duration": 0,
-              "status": "passed"
-            },
-            "name": "the dependency should be current",
-            "keyword": "Then ",
-            "line": 6
-          }
-        ]
-      },
-      {
-        "id": "npm-license",
-        "keyword": "Scenario",
-        "name": "undefined - npm-license",
-        "line": 3,
-        "description": "undefined - npm-license",
-        "type": "scenario",
-        "steps": [
-          {
-            "result": {
-              "duration": 0,
-              "status": "passed"
-            },
-            "name": "the package dependency npm-license",
-            "keyword": "Given ",
-            "line": 4
-          },
-          {
-            "result": {
-              "duration": 0,
-              "status": "passed"
-            },
-            "name": "analysed using David",
-            "keyword": "When ",
-            "line": 5
-          },
-          {
-            "result": {
-              "duration": 0,
-              "status": "passed"
-            },
-            "name": "the dependency should be current",
-            "keyword": "Then ",
-            "line": 6
-          }
-        ]
-      },
-      {
-        "id": "should",
-        "keyword": "Scenario",
-        "name": "undefined - should",
-        "line": 3,
-        "description": "undefined - should",
-        "type": "scenario",
-        "steps": [
-          {
-            "result": {
-              "duration": 0,
-              "status": "passed"
-            },
-            "name": "the package dependency should",
-            "keyword": "Given ",
-            "line": 4
-          },
-          {
-            "result": {
-              "duration": 0,
-              "status": "passed"
-            },
-            "name": "analysed using David",
-            "keyword": "When ",
-            "line": 5
-          },
-          {
-            "result": {
-              "duration": 0,
-              "status": "passed"
-            },
-            "name": "the dependency should be current",
-            "keyword": "Then ",
-            "line": 6
-          }
-        ]
-      },
-      {
-        "id": "underscore",
-        "keyword": "Scenario",
-        "name": "undefined - underscore",
-        "line": 3,
-        "description": "undefined - underscore",
-        "type": "scenario",
-        "steps": [
-          {
-            "result": {
-              "duration": 0,
-              "status": "passed"
-            },
-            "name": "the package dependency underscore",
+            "name": "the package dependency yadda",
             "keyword": "Given ",
             "line": 4
           },

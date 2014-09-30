@@ -5,9 +5,9 @@
     "passes": 28,
     "pending": 0,
     "failures": 2,
-    "start": "2014-09-30T13:10:43.201Z",
-    "end": "2014-09-30T13:10:48.623Z",
-    "duration": 5.422
+    "start": "2014-09-30T13:14:42.883Z",
+    "end": "2014-09-30T13:14:46.822Z",
+    "duration": 3.939
   },
   "failures": [
     {
@@ -30,13 +30,13 @@
       "duration": 0
     },
     {
-      "title": "glob",
-      "fullTitle": "undefined: glob",
+      "title": "gulp",
+      "fullTitle": "undefined: gulp",
       "duration": 0
     },
     {
-      "title": "gulp",
-      "fullTitle": "undefined: gulp",
+      "title": "glob",
+      "fullTitle": "undefined: glob",
       "duration": 0
     },
     {
@@ -45,18 +45,13 @@
       "duration": 0
     },
     {
+      "title": "david",
+      "fullTitle": "undefined: david",
+      "duration": 0
+    },
+    {
       "title": "gulp-concat",
       "fullTitle": "undefined: gulp-concat",
-      "duration": 0
-    },
-    {
-      "title": "gulp-dust-compile-render",
-      "fullTitle": "undefined: gulp-dust-compile-render",
-      "duration": 0
-    },
-    {
-      "title": "gulp-jsdoc-to-markdown",
-      "fullTitle": "undefined: gulp-jsdoc-to-markdown",
       "duration": 0
     },
     {
@@ -65,18 +60,8 @@
       "duration": 0
     },
     {
-      "title": "gulp-jshint",
-      "fullTitle": "undefined: gulp-jshint",
-      "duration": 0
-    },
-    {
-      "title": "gulp-json-editor",
-      "fullTitle": "undefined: gulp-json-editor",
-      "duration": 0
-    },
-    {
-      "title": "gulp-load-params",
-      "fullTitle": "undefined: gulp-load-params",
+      "title": "gulp-dust-compile-render",
+      "fullTitle": "undefined: gulp-dust-compile-render",
       "duration": 0
     },
     {
@@ -85,13 +70,38 @@
       "duration": 0
     },
     {
-      "title": "gulp-util",
-      "fullTitle": "undefined: gulp-util",
+      "title": "gulp-json-editor",
+      "fullTitle": "undefined: gulp-json-editor",
+      "duration": 0
+    },
+    {
+      "title": "gulp-jsdoc-to-markdown",
+      "fullTitle": "undefined: gulp-jsdoc-to-markdown",
+      "duration": 0
+    },
+    {
+      "title": "gulp-load-params",
+      "fullTitle": "undefined: gulp-load-params",
       "duration": 0
     },
     {
       "title": "gulp-yadda-steps",
       "fullTitle": "undefined: gulp-yadda-steps",
+      "duration": 0
+    },
+    {
+      "title": "gulp-jshint",
+      "fullTitle": "undefined: gulp-jshint",
+      "duration": 0
+    },
+    {
+      "title": "gulp-rename",
+      "fullTitle": "undefined: gulp-rename",
+      "duration": 0
+    },
+    {
+      "title": "gulp-util",
+      "fullTitle": "undefined: gulp-util",
       "duration": 0
     },
     {
@@ -110,11 +120,6 @@
       "duration": 0
     },
     {
-      "title": "david",
-      "fullTitle": "undefined: david",
-      "duration": 0
-    },
-    {
       "title": "mocha-bamboo-reporter-bgo",
       "fullTitle": "undefined: mocha-bamboo-reporter-bgo",
       "duration": 0
@@ -125,33 +130,18 @@
       "duration": 0
     },
     {
-      "title": "oauth-rest-atlassian",
-      "fullTitle": "undefined: oauth-rest-atlassian",
-      "duration": 0
-    },
-    {
-      "title": "gulp-rename",
-      "fullTitle": "undefined: gulp-rename",
-      "duration": 0
-    },
-    {
-      "title": "yadda",
-      "fullTitle": "undefined: yadda",
-      "duration": 0
-    },
-    {
-      "title": "webpack",
-      "fullTitle": "undefined: webpack",
-      "duration": 0
-    },
-    {
       "title": "npm-license",
       "fullTitle": "undefined: npm-license",
       "duration": 0
     },
     {
-      "title": "npm",
-      "fullTitle": "undefined: npm",
+      "title": "oauth-rest-atlassian",
+      "fullTitle": "undefined: oauth-rest-atlassian",
+      "duration": 0
+    },
+    {
+      "title": "underscore",
+      "fullTitle": "undefined: underscore",
       "duration": 0
     },
     {
@@ -160,8 +150,18 @@
       "duration": 0
     },
     {
-      "title": "underscore",
-      "fullTitle": "undefined: underscore",
+      "title": "npm",
+      "fullTitle": "undefined: npm",
+      "duration": 0
+    },
+    {
+      "title": "webpack",
+      "fullTitle": "undefined: webpack",
+      "duration": 0
+    },
+    {
+      "title": "yadda",
+      "fullTitle": "undefined: yadda",
       "duration": 0
     }
   ],
