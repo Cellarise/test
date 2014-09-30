@@ -5,16 +5,16 @@
     "passes": 1,
     "pending": 0,
     "failures": 0,
-    "duration": 31,
-    "start": "2014-09-30T13:07:17.186Z",
-    "end": "2014-09-30T13:07:17.217Z"
+    "duration": 47,
+    "start": "2014-09-30T13:11:07.596Z",
+    "end": "2014-09-30T13:11:07.643Z"
   },
   "failures": [],
   "passes": [
     {
       "title": "JSHint index.js",
-      "fullTitle": " C:\\Atlassian\\NPM\\cellarise-package-manager\\Auto_Build\\lib\\index.js",
-      "duration": 31
+      "fullTitle": " C:\\bamboo\\SRC\\CELLARISE-MDBLDGEN-JOB1\\Auto_Build\\lib\\index.js",
+      "duration": 47
     }
   ],
   "skipped": []
