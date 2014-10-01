@@ -5,22 +5,22 @@
     "passes": 28,
     "pending": 0,
     "failures": 2,
-    "start": "2014-10-01T11:09:08.454Z",
-    "end": "2014-10-01T11:09:11.476Z",
-    "duration": 3.022
+    "start": "2014-10-01T11:21:23.092Z",
+    "end": "2014-10-01T11:21:26.567Z",
+    "duration": 3.475
   },
   "failures": [
-    {
-      "title": "run-sequence",
-      "fullTitle": "Dev dependencies: run-sequence",
-      "duration": 0,
-      "error": "run-sequence | Required: ^0.3.6 Stable: 1.0.0"
-    },
     {
       "title": "through2",
       "fullTitle": "Dev dependencies: through2",
       "duration": 0,
       "error": "through2 | Required: ^0.6.1 Stable: 0.6.2"
+    },
+    {
+      "title": "run-sequence",
+      "fullTitle": "Dev dependencies: run-sequence",
+      "duration": 0,
+      "error": "run-sequence | Required: ^0.3.6 Stable: 1.0.0"
     }
   ],
   "passes": [
@@ -40,13 +40,13 @@
       "duration": 0
     },
     {
-      "title": "gulp-async-func-runner",
-      "fullTitle": "undefined: gulp-async-func-runner",
+      "title": "gulp",
+      "fullTitle": "undefined: gulp",
       "duration": 0
     },
     {
-      "title": "gulp-concat",
-      "fullTitle": "undefined: gulp-concat",
+      "title": "gulp-async-func-runner",
+      "fullTitle": "undefined: gulp-async-func-runner",
       "duration": 0
     },
     {
@@ -55,13 +55,13 @@
       "duration": 0
     },
     {
-      "title": "gulp-istanbul-custom-reports",
-      "fullTitle": "undefined: gulp-istanbul-custom-reports",
+      "title": "gulp-concat",
+      "fullTitle": "undefined: gulp-concat",
       "duration": 0
     },
     {
-      "title": "gulp",
-      "fullTitle": "undefined: gulp",
+      "title": "gulp-istanbul-custom-reports",
+      "fullTitle": "undefined: gulp-istanbul-custom-reports",
       "duration": 0
     },
     {
@@ -75,23 +75,13 @@
       "duration": 0
     },
     {
-      "title": "gulp-json-editor",
-      "fullTitle": "undefined: gulp-json-editor",
-      "duration": 0
-    },
-    {
       "title": "gulp-load-params",
       "fullTitle": "undefined: gulp-load-params",
       "duration": 0
     },
     {
-      "title": "gulp-mocha",
-      "fullTitle": "undefined: gulp-mocha",
-      "duration": 0
-    },
-    {
-      "title": "gulp-util",
-      "fullTitle": "undefined: gulp-util",
+      "title": "gulp-json-editor",
+      "fullTitle": "undefined: gulp-json-editor",
       "duration": 0
     },
     {
@@ -100,18 +90,18 @@
       "duration": 0
     },
     {
+      "title": "gulp-mocha",
+      "fullTitle": "undefined: gulp-mocha",
+      "duration": 0
+    },
+    {
       "title": "gulp-yadda-steps",
       "fullTitle": "undefined: gulp-yadda-steps",
       "duration": 0
     },
     {
-      "title": "mkdirp",
-      "fullTitle": "undefined: mkdirp",
-      "duration": 0
-    },
-    {
-      "title": "istanbul-reporter-clover-limits",
-      "fullTitle": "undefined: istanbul-reporter-clover-limits",
+      "title": "gulp-util",
+      "fullTitle": "undefined: gulp-util",
       "duration": 0
     },
     {
@@ -120,8 +110,18 @@
       "duration": 0
     },
     {
+      "title": "istanbul-reporter-clover-limits",
+      "fullTitle": "undefined: istanbul-reporter-clover-limits",
+      "duration": 0
+    },
+    {
       "title": "mocha-bamboo-reporter-bgo",
       "fullTitle": "undefined: mocha-bamboo-reporter-bgo",
+      "duration": 0
+    },
+    {
+      "title": "mkdirp",
+      "fullTitle": "undefined: mkdirp",
       "duration": 0
     },
     {
@@ -140,18 +140,8 @@
       "duration": 0
     },
     {
-      "title": "should",
-      "fullTitle": "undefined: should",
-      "duration": 0
-    },
-    {
       "title": "underscore",
       "fullTitle": "undefined: underscore",
-      "duration": 0
-    },
-    {
-      "title": "npm",
-      "fullTitle": "undefined: npm",
       "duration": 0
     },
     {
@@ -160,8 +150,18 @@
       "duration": 0
     },
     {
+      "title": "npm",
+      "fullTitle": "undefined: npm",
+      "duration": 0
+    },
+    {
       "title": "yadda",
       "fullTitle": "undefined: yadda",
+      "duration": 0
+    },
+    {
+      "title": "should",
+      "fullTitle": "undefined: should",
       "duration": 0
     }
   ],

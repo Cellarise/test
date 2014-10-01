@@ -12,7 +12,7 @@
         "keyword": "Scenario",
         "name": "JSHint - index.js",
         "line": 3,
-        "description": " - C:\\Atlassian\\NPM\\cellarise-package-manager\\Auto_Build\\lib\\index.js",
+        "description": " - C:\\bamboo\\SRC\\CELLARISE-MDBLDGEN-JOB1\\Auto_Build\\lib\\index.js",
         "type": "scenario",
         "steps": [
           {
