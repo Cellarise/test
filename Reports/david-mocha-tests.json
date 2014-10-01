@@ -5,9 +5,9 @@
     "passes": 28,
     "pending": 0,
     "failures": 2,
-    "start": "2014-10-01T13:19:01.925Z",
-    "end": "2014-10-01T13:19:05.890Z",
-    "duration": 3.965
+    "start": "2014-10-01T13:21:09.043Z",
+    "end": "2014-10-01T13:21:11.886Z",
+    "duration": 2.843
   },
   "failures": [
     {
@@ -25,13 +25,8 @@
   ],
   "passes": [
     {
-      "title": "async",
-      "fullTitle": "undefined: async",
-      "duration": 0
-    },
-    {
-      "title": "david",
-      "fullTitle": "undefined: david",
+      "title": "gulp",
+      "fullTitle": "undefined: gulp",
       "duration": 0
     },
     {
@@ -40,13 +35,8 @@
       "duration": 0
     },
     {
-      "title": "gulp",
-      "fullTitle": "undefined: gulp",
-      "duration": 0
-    },
-    {
-      "title": "gulp-concat",
-      "fullTitle": "undefined: gulp-concat",
+      "title": "async",
+      "fullTitle": "undefined: async",
       "duration": 0
     },
     {
@@ -55,18 +45,28 @@
       "duration": 0
     },
     {
+      "title": "gulp-concat",
+      "fullTitle": "undefined: gulp-concat",
+      "duration": 0
+    },
+    {
+      "title": "david",
+      "fullTitle": "undefined: david",
+      "duration": 0
+    },
+    {
       "title": "gulp-dust-compile-render",
       "fullTitle": "undefined: gulp-dust-compile-render",
       "duration": 0
     },
     {
-      "title": "gulp-istanbul-custom-reports",
-      "fullTitle": "undefined: gulp-istanbul-custom-reports",
+      "title": "gulp-jsdoc-to-markdown",
+      "fullTitle": "undefined: gulp-jsdoc-to-markdown",
       "duration": 0
     },
     {
-      "title": "gulp-jsdoc-to-markdown",
-      "fullTitle": "undefined: gulp-jsdoc-to-markdown",
+      "title": "gulp-istanbul-custom-reports",
+      "fullTitle": "undefined: gulp-istanbul-custom-reports",
       "duration": 0
     },
     {
@@ -77,11 +77,6 @@
     {
       "title": "gulp-jshint",
       "fullTitle": "undefined: gulp-jshint",
-      "duration": 0
-    },
-    {
-      "title": "gulp-load-params",
-      "fullTitle": "undefined: gulp-load-params",
       "duration": 0
     },
     {
@@ -100,6 +95,11 @@
       "duration": 0
     },
     {
+      "title": "gulp-load-params",
+      "fullTitle": "undefined: gulp-load-params",
+      "duration": 0
+    },
+    {
       "title": "gulp-yadda-steps",
       "fullTitle": "undefined: gulp-yadda-steps",
       "duration": 0
@@ -115,18 +115,23 @@
       "duration": 0
     },
     {
-      "title": "mocha-bamboo-reporter-bgo",
-      "fullTitle": "undefined: mocha-bamboo-reporter-bgo",
-      "duration": 0
-    },
-    {
       "title": "mkdirp",
       "fullTitle": "undefined: mkdirp",
       "duration": 0
     },
     {
+      "title": "mocha-bamboo-reporter-bgo",
+      "fullTitle": "undefined: mocha-bamboo-reporter-bgo",
+      "duration": 0
+    },
+    {
       "title": "node-dir-diff",
       "fullTitle": "undefined: node-dir-diff",
+      "duration": 0
+    },
+    {
+      "title": "npm-license",
+      "fullTitle": "undefined: npm-license",
       "duration": 0
     },
     {
@@ -150,18 +155,13 @@
       "duration": 0
     },
     {
-      "title": "webpack",
-      "fullTitle": "undefined: webpack",
-      "duration": 0
-    },
-    {
-      "title": "npm-license",
-      "fullTitle": "undefined: npm-license",
-      "duration": 0
-    },
-    {
       "title": "yadda",
       "fullTitle": "undefined: yadda",
+      "duration": 0
+    },
+    {
+      "title": "webpack",
+      "fullTitle": "undefined: webpack",
       "duration": 0
     }
   ],
