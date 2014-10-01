@@ -5,9 +5,9 @@
     "passes": 28,
     "pending": 0,
     "failures": 2,
-    "start": "2014-10-01T11:07:47.059Z",
-    "end": "2014-10-01T11:07:51.487Z",
-    "duration": 4.428
+    "start": "2014-10-01T11:09:08.454Z",
+    "end": "2014-10-01T11:09:11.476Z",
+    "duration": 3.022
   },
   "failures": [
     {
@@ -45,11 +45,6 @@
       "duration": 0
     },
     {
-      "title": "gulp",
-      "fullTitle": "undefined: gulp",
-      "duration": 0
-    },
-    {
       "title": "gulp-concat",
       "fullTitle": "undefined: gulp-concat",
       "duration": 0
@@ -62,6 +57,11 @@
     {
       "title": "gulp-istanbul-custom-reports",
       "fullTitle": "undefined: gulp-istanbul-custom-reports",
+      "duration": 0
+    },
+    {
+      "title": "gulp",
+      "fullTitle": "undefined: gulp",
       "duration": 0
     },
     {
@@ -85,13 +85,18 @@
       "duration": 0
     },
     {
-      "title": "gulp-rename",
-      "fullTitle": "undefined: gulp-rename",
+      "title": "gulp-mocha",
+      "fullTitle": "undefined: gulp-mocha",
       "duration": 0
     },
     {
-      "title": "gulp-mocha",
-      "fullTitle": "undefined: gulp-mocha",
+      "title": "gulp-util",
+      "fullTitle": "undefined: gulp-util",
+      "duration": 0
+    },
+    {
+      "title": "gulp-rename",
+      "fullTitle": "undefined: gulp-rename",
       "duration": 0
     },
     {
@@ -100,8 +105,8 @@
       "duration": 0
     },
     {
-      "title": "gulp-util",
-      "fullTitle": "undefined: gulp-util",
+      "title": "mkdirp",
+      "fullTitle": "undefined: mkdirp",
       "duration": 0
     },
     {
@@ -112,11 +117,6 @@
     {
       "title": "jshint-reporter-bamboo",
       "fullTitle": "undefined: jshint-reporter-bamboo",
-      "duration": 0
-    },
-    {
-      "title": "mkdirp",
-      "fullTitle": "undefined: mkdirp",
       "duration": 0
     },
     {
@@ -140,13 +140,13 @@
       "duration": 0
     },
     {
-      "title": "underscore",
-      "fullTitle": "undefined: underscore",
+      "title": "should",
+      "fullTitle": "undefined: should",
       "duration": 0
     },
     {
-      "title": "should",
-      "fullTitle": "undefined: should",
+      "title": "underscore",
+      "fullTitle": "undefined: underscore",
       "duration": 0
     },
     {
@@ -155,13 +155,13 @@
       "duration": 0
     },
     {
-      "title": "yadda",
-      "fullTitle": "undefined: yadda",
+      "title": "webpack",
+      "fullTitle": "undefined: webpack",
       "duration": 0
     },
     {
-      "title": "webpack",
-      "fullTitle": "undefined: webpack",
+      "title": "yadda",
+      "fullTitle": "undefined: yadda",
       "duration": 0
     }
   ],
