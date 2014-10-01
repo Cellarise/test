@@ -5,8 +5,8 @@
     "passes": 9,
     "pending": 0,
     "failures": 0,
-    "start": "2014-10-01T10:31:03.370Z",
-    "end": "2014-10-01T10:31:03.381Z",
+    "start": "2014-10-01T10:41:00.200Z",
+    "end": "2014-10-01T10:41:00.211Z",
     "duration": 11
   },
   "failures": [],
@@ -24,7 +24,7 @@
     {
       "title": "Then C",
       "fullTitle": "Feature2 Feature2 Then C",
-      "duration": 1
+      "duration": 0
     },
     {
       "title": "Given A",
