@@ -5,9 +5,9 @@
     "passes": 28,
     "pending": 0,
     "failures": 2,
-    "start": "2014-10-01T11:21:23.092Z",
-    "end": "2014-10-01T11:21:26.567Z",
-    "duration": 3.475
+    "start": "2014-10-01T12:20:18.164Z",
+    "end": "2014-10-01T12:20:21.417Z",
+    "duration": 3.253
   },
   "failures": [
     {
@@ -30,13 +30,13 @@
       "duration": 0
     },
     {
-      "title": "david",
-      "fullTitle": "undefined: david",
+      "title": "glob",
+      "fullTitle": "undefined: glob",
       "duration": 0
     },
     {
-      "title": "glob",
-      "fullTitle": "undefined: glob",
+      "title": "david",
+      "fullTitle": "undefined: david",
       "duration": 0
     },
     {
@@ -50,18 +50,8 @@
       "duration": 0
     },
     {
-      "title": "gulp-dust-compile-render",
-      "fullTitle": "undefined: gulp-dust-compile-render",
-      "duration": 0
-    },
-    {
       "title": "gulp-concat",
       "fullTitle": "undefined: gulp-concat",
-      "duration": 0
-    },
-    {
-      "title": "gulp-istanbul-custom-reports",
-      "fullTitle": "undefined: gulp-istanbul-custom-reports",
       "duration": 0
     },
     {
@@ -70,13 +60,13 @@
       "duration": 0
     },
     {
-      "title": "gulp-jshint",
-      "fullTitle": "undefined: gulp-jshint",
+      "title": "gulp-istanbul-custom-reports",
+      "fullTitle": "undefined: gulp-istanbul-custom-reports",
       "duration": 0
     },
     {
-      "title": "gulp-load-params",
-      "fullTitle": "undefined: gulp-load-params",
+      "title": "gulp-jshint",
+      "fullTitle": "undefined: gulp-jshint",
       "duration": 0
     },
     {
@@ -85,8 +75,8 @@
       "duration": 0
     },
     {
-      "title": "gulp-rename",
-      "fullTitle": "undefined: gulp-rename",
+      "title": "gulp-load-params",
+      "fullTitle": "undefined: gulp-load-params",
       "duration": 0
     },
     {
@@ -95,18 +85,18 @@
       "duration": 0
     },
     {
-      "title": "gulp-yadda-steps",
-      "fullTitle": "undefined: gulp-yadda-steps",
-      "duration": 0
-    },
-    {
       "title": "gulp-util",
       "fullTitle": "undefined: gulp-util",
       "duration": 0
     },
     {
-      "title": "jshint-reporter-bamboo",
-      "fullTitle": "undefined: jshint-reporter-bamboo",
+      "title": "gulp-rename",
+      "fullTitle": "undefined: gulp-rename",
+      "duration": 0
+    },
+    {
+      "title": "gulp-yadda-steps",
+      "fullTitle": "undefined: gulp-yadda-steps",
       "duration": 0
     },
     {
@@ -120,13 +110,13 @@
       "duration": 0
     },
     {
-      "title": "mkdirp",
-      "fullTitle": "undefined: mkdirp",
+      "title": "jshint-reporter-bamboo",
+      "fullTitle": "undefined: jshint-reporter-bamboo",
       "duration": 0
     },
     {
-      "title": "node-dir-diff",
-      "fullTitle": "undefined: node-dir-diff",
+      "title": "mkdirp",
+      "fullTitle": "undefined: mkdirp",
       "duration": 0
     },
     {
@@ -135,18 +125,28 @@
       "duration": 0
     },
     {
+      "title": "gulp-dust-compile-render",
+      "fullTitle": "undefined: gulp-dust-compile-render",
+      "duration": 0
+    },
+    {
+      "title": "node-dir-diff",
+      "fullTitle": "undefined: node-dir-diff",
+      "duration": 0
+    },
+    {
       "title": "oauth-rest-atlassian",
       "fullTitle": "undefined: oauth-rest-atlassian",
       "duration": 0
     },
     {
-      "title": "underscore",
-      "fullTitle": "undefined: underscore",
+      "title": "should",
+      "fullTitle": "undefined: should",
       "duration": 0
     },
     {
-      "title": "webpack",
-      "fullTitle": "undefined: webpack",
+      "title": "underscore",
+      "fullTitle": "undefined: underscore",
       "duration": 0
     },
     {
@@ -160,8 +160,8 @@
       "duration": 0
     },
     {
-      "title": "should",
-      "fullTitle": "undefined: should",
+      "title": "webpack",
+      "fullTitle": "undefined: webpack",
       "duration": 0
     }
   ],
