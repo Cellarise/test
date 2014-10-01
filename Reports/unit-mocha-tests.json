@@ -5,16 +5,16 @@
     "passes": 9,
     "pending": 0,
     "failures": 0,
-    "start": "2014-10-01T10:45:29.929Z",
-    "end": "2014-10-01T10:45:29.940Z",
-    "duration": 11
+    "start": "2014-10-01T10:46:46.881Z",
+    "end": "2014-10-01T10:46:46.896Z",
+    "duration": 15
   },
   "failures": [],
   "passes": [
     {
       "title": "Given A",
       "fullTitle": "Feature2 Feature2 Given A",
-      "duration": 4
+      "duration": 15
     },
     {
       "title": "When B",
@@ -29,7 +29,7 @@
     {
       "title": "Given A",
       "fullTitle": "Feature 3 Feature 3 Given A",
-      "duration": 1
+      "duration": 0
     },
     {
       "title": "When B",
@@ -44,7 +44,7 @@
     {
       "title": "Given A",
       "fullTitle": "Initial setup Initial setup Given A",
-      "duration": 1
+      "duration": 0
     },
     {
       "title": "When B",
