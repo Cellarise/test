@@ -5,25 +5,30 @@
     "passes": 28,
     "pending": 0,
     "failures": 2,
-    "start": "2014-10-01T13:24:48.531Z",
-    "end": "2014-10-01T13:24:51.669Z",
-    "duration": 3.138
+    "start": "2014-10-01T13:29:31.416Z",
+    "end": "2014-10-01T13:29:35.701Z",
+    "duration": 4.285
   },
   "failures": [
-    {
-      "title": "run-sequence",
-      "fullTitle": "Dev dependencies: run-sequence",
-      "duration": 0,
-      "error": "run-sequence | Required: ^0.3.6 Stable: 1.0.0"
-    },
     {
       "title": "through2",
       "fullTitle": "Dev dependencies: through2",
       "duration": 0,
       "error": "through2 | Required: ^0.6.1 Stable: 0.6.2"
+    },
+    {
+      "title": "run-sequence",
+      "fullTitle": "Dev dependencies: run-sequence",
+      "duration": 0,
+      "error": "run-sequence | Required: ^0.3.6 Stable: 1.0.0"
     }
   ],
   "passes": [
+    {
+      "title": "david",
+      "fullTitle": "undefined: david",
+      "duration": 0
+    },
     {
       "title": "async",
       "fullTitle": "undefined: async",
@@ -35,23 +40,13 @@
       "duration": 0
     },
     {
-      "title": "david",
-      "fullTitle": "undefined: david",
+      "title": "gulp-concat",
+      "fullTitle": "undefined: gulp-concat",
       "duration": 0
     },
     {
       "title": "gulp-async-func-runner",
       "fullTitle": "undefined: gulp-async-func-runner",
-      "duration": 0
-    },
-    {
-      "title": "gulp",
-      "fullTitle": "undefined: gulp",
-      "duration": 0
-    },
-    {
-      "title": "gulp-dust-compile-render",
-      "fullTitle": "undefined: gulp-dust-compile-render",
       "duration": 0
     },
     {
@@ -65,18 +60,13 @@
       "duration": 0
     },
     {
+      "title": "gulp-dust-compile-render",
+      "fullTitle": "undefined: gulp-dust-compile-render",
+      "duration": 0
+    },
+    {
       "title": "gulp-jshint",
       "fullTitle": "undefined: gulp-jshint",
-      "duration": 0
-    },
-    {
-      "title": "gulp-concat",
-      "fullTitle": "undefined: gulp-concat",
-      "duration": 0
-    },
-    {
-      "title": "gulp-mocha",
-      "fullTitle": "undefined: gulp-mocha",
       "duration": 0
     },
     {
@@ -85,8 +75,13 @@
       "duration": 0
     },
     {
-      "title": "gulp-rename",
-      "fullTitle": "undefined: gulp-rename",
+      "title": "gulp-mocha",
+      "fullTitle": "undefined: gulp-mocha",
+      "duration": 0
+    },
+    {
+      "title": "gulp-util",
+      "fullTitle": "undefined: gulp-util",
       "duration": 0
     },
     {
@@ -95,8 +90,13 @@
       "duration": 0
     },
     {
-      "title": "istanbul-reporter-clover-limits",
-      "fullTitle": "undefined: istanbul-reporter-clover-limits",
+      "title": "gulp",
+      "fullTitle": "undefined: gulp",
+      "duration": 0
+    },
+    {
+      "title": "gulp-rename",
+      "fullTitle": "undefined: gulp-rename",
       "duration": 0
     },
     {
@@ -105,8 +105,8 @@
       "duration": 0
     },
     {
-      "title": "gulp-util",
-      "fullTitle": "undefined: gulp-util",
+      "title": "istanbul-reporter-clover-limits",
+      "fullTitle": "undefined: istanbul-reporter-clover-limits",
       "duration": 0
     },
     {
@@ -135,6 +135,11 @@
       "duration": 0
     },
     {
+      "title": "should",
+      "fullTitle": "undefined: should",
+      "duration": 0
+    },
+    {
       "title": "oauth-rest-atlassian",
       "fullTitle": "undefined: oauth-rest-atlassian",
       "duration": 0
@@ -145,23 +150,18 @@
       "duration": 0
     },
     {
-      "title": "webpack",
-      "fullTitle": "undefined: webpack",
-      "duration": 0
-    },
-    {
       "title": "npm",
       "fullTitle": "undefined: npm",
       "duration": 0
     },
     {
-      "title": "should",
-      "fullTitle": "undefined: should",
+      "title": "yadda",
+      "fullTitle": "undefined: yadda",
       "duration": 0
     },
     {
-      "title": "yadda",
-      "fullTitle": "undefined: yadda",
+      "title": "webpack",
+      "fullTitle": "undefined: webpack",
       "duration": 0
     }
   ],
