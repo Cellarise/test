@@ -5,9 +5,9 @@
     "passes": 28,
     "pending": 0,
     "failures": 2,
-    "start": "2014-10-01T13:21:09.043Z",
-    "end": "2014-10-01T13:21:11.886Z",
-    "duration": 2.843
+    "start": "2014-10-01T13:24:48.531Z",
+    "end": "2014-10-01T13:24:51.669Z",
+    "duration": 3.138
   },
   "failures": [
     {
@@ -25,8 +25,8 @@
   ],
   "passes": [
     {
-      "title": "gulp",
-      "fullTitle": "undefined: gulp",
+      "title": "async",
+      "fullTitle": "undefined: async",
       "duration": 0
     },
     {
@@ -35,8 +35,8 @@
       "duration": 0
     },
     {
-      "title": "async",
-      "fullTitle": "undefined: async",
+      "title": "david",
+      "fullTitle": "undefined: david",
       "duration": 0
     },
     {
@@ -45,13 +45,8 @@
       "duration": 0
     },
     {
-      "title": "gulp-concat",
-      "fullTitle": "undefined: gulp-concat",
-      "duration": 0
-    },
-    {
-      "title": "david",
-      "fullTitle": "undefined: david",
+      "title": "gulp",
+      "fullTitle": "undefined: gulp",
       "duration": 0
     },
     {
@@ -70,13 +65,13 @@
       "duration": 0
     },
     {
-      "title": "gulp-json-editor",
-      "fullTitle": "undefined: gulp-json-editor",
+      "title": "gulp-jshint",
+      "fullTitle": "undefined: gulp-jshint",
       "duration": 0
     },
     {
-      "title": "gulp-jshint",
-      "fullTitle": "undefined: gulp-jshint",
+      "title": "gulp-concat",
+      "fullTitle": "undefined: gulp-concat",
       "duration": 0
     },
     {
@@ -85,13 +80,13 @@
       "duration": 0
     },
     {
-      "title": "gulp-rename",
-      "fullTitle": "undefined: gulp-rename",
+      "title": "gulp-json-editor",
+      "fullTitle": "undefined: gulp-json-editor",
       "duration": 0
     },
     {
-      "title": "gulp-util",
-      "fullTitle": "undefined: gulp-util",
+      "title": "gulp-rename",
+      "fullTitle": "undefined: gulp-rename",
       "duration": 0
     },
     {
@@ -100,13 +95,18 @@
       "duration": 0
     },
     {
+      "title": "istanbul-reporter-clover-limits",
+      "fullTitle": "undefined: istanbul-reporter-clover-limits",
+      "duration": 0
+    },
+    {
       "title": "gulp-yadda-steps",
       "fullTitle": "undefined: gulp-yadda-steps",
       "duration": 0
     },
     {
-      "title": "istanbul-reporter-clover-limits",
-      "fullTitle": "undefined: istanbul-reporter-clover-limits",
+      "title": "gulp-util",
+      "fullTitle": "undefined: gulp-util",
       "duration": 0
     },
     {
@@ -140,13 +140,13 @@
       "duration": 0
     },
     {
-      "title": "should",
-      "fullTitle": "undefined: should",
+      "title": "underscore",
+      "fullTitle": "undefined: underscore",
       "duration": 0
     },
     {
-      "title": "underscore",
-      "fullTitle": "undefined: underscore",
+      "title": "webpack",
+      "fullTitle": "undefined: webpack",
       "duration": 0
     },
     {
@@ -155,13 +155,13 @@
       "duration": 0
     },
     {
-      "title": "yadda",
-      "fullTitle": "undefined: yadda",
+      "title": "should",
+      "fullTitle": "undefined: should",
       "duration": 0
     },
     {
-      "title": "webpack",
-      "fullTitle": "undefined: webpack",
+      "title": "yadda",
+      "fullTitle": "undefined: yadda",
       "duration": 0
     }
   ],
