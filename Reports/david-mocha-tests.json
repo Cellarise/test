@@ -5,25 +5,30 @@
     "passes": 28,
     "pending": 0,
     "failures": 2,
-    "start": "2014-10-01T12:20:18.164Z",
-    "end": "2014-10-01T12:20:21.417Z",
-    "duration": 3.253
+    "start": "2014-10-01T13:14:14.449Z",
+    "end": "2014-10-01T13:14:17.322Z",
+    "duration": 2.873
   },
   "failures": [
-    {
-      "title": "through2",
-      "fullTitle": "Dev dependencies: through2",
-      "duration": 0,
-      "error": "through2 | Required: ^0.6.1 Stable: 0.6.2"
-    },
     {
       "title": "run-sequence",
       "fullTitle": "Dev dependencies: run-sequence",
       "duration": 0,
       "error": "run-sequence | Required: ^0.3.6 Stable: 1.0.0"
+    },
+    {
+      "title": "through2",
+      "fullTitle": "Dev dependencies: through2",
+      "duration": 0,
+      "error": "through2 | Required: ^0.6.1 Stable: 0.6.2"
     }
   ],
   "passes": [
+    {
+      "title": "david",
+      "fullTitle": "undefined: david",
+      "duration": 0
+    },
     {
       "title": "async",
       "fullTitle": "undefined: async",
@@ -32,11 +37,6 @@
     {
       "title": "glob",
       "fullTitle": "undefined: glob",
-      "duration": 0
-    },
-    {
-      "title": "david",
-      "fullTitle": "undefined: david",
       "duration": 0
     },
     {
@@ -55,8 +55,8 @@
       "duration": 0
     },
     {
-      "title": "gulp-jsdoc-to-markdown",
-      "fullTitle": "undefined: gulp-jsdoc-to-markdown",
+      "title": "gulp-dust-compile-render",
+      "fullTitle": "undefined: gulp-dust-compile-render",
       "duration": 0
     },
     {
@@ -65,8 +65,8 @@
       "duration": 0
     },
     {
-      "title": "gulp-jshint",
-      "fullTitle": "undefined: gulp-jshint",
+      "title": "gulp-jsdoc-to-markdown",
+      "fullTitle": "undefined: gulp-jsdoc-to-markdown",
       "duration": 0
     },
     {
@@ -75,18 +75,13 @@
       "duration": 0
     },
     {
+      "title": "gulp-jshint",
+      "fullTitle": "undefined: gulp-jshint",
+      "duration": 0
+    },
+    {
       "title": "gulp-load-params",
       "fullTitle": "undefined: gulp-load-params",
-      "duration": 0
-    },
-    {
-      "title": "gulp-mocha",
-      "fullTitle": "undefined: gulp-mocha",
-      "duration": 0
-    },
-    {
-      "title": "gulp-util",
-      "fullTitle": "undefined: gulp-util",
       "duration": 0
     },
     {
@@ -95,18 +90,8 @@
       "duration": 0
     },
     {
-      "title": "gulp-yadda-steps",
-      "fullTitle": "undefined: gulp-yadda-steps",
-      "duration": 0
-    },
-    {
-      "title": "istanbul-reporter-clover-limits",
-      "fullTitle": "undefined: istanbul-reporter-clover-limits",
-      "duration": 0
-    },
-    {
-      "title": "mocha-bamboo-reporter-bgo",
-      "fullTitle": "undefined: mocha-bamboo-reporter-bgo",
+      "title": "gulp-util",
+      "fullTitle": "undefined: gulp-util",
       "duration": 0
     },
     {
@@ -115,18 +100,28 @@
       "duration": 0
     },
     {
+      "title": "istanbul-reporter-clover-limits",
+      "fullTitle": "undefined: istanbul-reporter-clover-limits",
+      "duration": 0
+    },
+    {
+      "title": "gulp-mocha",
+      "fullTitle": "undefined: gulp-mocha",
+      "duration": 0
+    },
+    {
+      "title": "gulp-yadda-steps",
+      "fullTitle": "undefined: gulp-yadda-steps",
+      "duration": 0
+    },
+    {
+      "title": "mocha-bamboo-reporter-bgo",
+      "fullTitle": "undefined: mocha-bamboo-reporter-bgo",
+      "duration": 0
+    },
+    {
       "title": "mkdirp",
       "fullTitle": "undefined: mkdirp",
-      "duration": 0
-    },
-    {
-      "title": "npm-license",
-      "fullTitle": "undefined: npm-license",
-      "duration": 0
-    },
-    {
-      "title": "gulp-dust-compile-render",
-      "fullTitle": "undefined: gulp-dust-compile-render",
       "duration": 0
     },
     {
@@ -135,18 +130,13 @@
       "duration": 0
     },
     {
+      "title": "npm-license",
+      "fullTitle": "undefined: npm-license",
+      "duration": 0
+    },
+    {
       "title": "oauth-rest-atlassian",
       "fullTitle": "undefined: oauth-rest-atlassian",
-      "duration": 0
-    },
-    {
-      "title": "should",
-      "fullTitle": "undefined: should",
-      "duration": 0
-    },
-    {
-      "title": "underscore",
-      "fullTitle": "undefined: underscore",
       "duration": 0
     },
     {
@@ -157,6 +147,16 @@
     {
       "title": "yadda",
       "fullTitle": "undefined: yadda",
+      "duration": 0
+    },
+    {
+      "title": "should",
+      "fullTitle": "undefined: should",
+      "duration": 0
+    },
+    {
+      "title": "underscore",
+      "fullTitle": "undefined: underscore",
       "duration": 0
     },
     {
