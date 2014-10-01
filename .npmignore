@@ -1,0 +1,8 @@
+node_modules/
+bower_components/
+.idea/
+Reports/
+Build/
+docs/theme
+Temp/
+Test_Resources/

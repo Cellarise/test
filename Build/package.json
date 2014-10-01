@@ -2,7 +2,7 @@
   "author": "John Barry",
   "name": "Cellarise/Test",
   "description": ".",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "license": "Cellarise License",
   "repository": {
     "type": "git",
@@ -12,18 +12,8 @@
     "registry": "http://registry.cellarise.com:4873"
   },
   "config": {
-    "private": true,
-    "projectCode": "MDTEST",
-    "build": "n/a",
-    "buildTimestamp": "2014-08-13T04:52:58.448Z",
     "adminEmail": "admin@cellarise.com",
     "coverage": {
-      "watermarks": {
-        "statements": [50, 80, 20],
-        "lines": [50, 80, 20],
-        "functions": [50, 80, 20],
-        "branches": [50, 80, 20]
-      },
       "stats": {
         "lines": {
           "pctSkipped": 0,
@@ -53,7 +43,9 @@
           "colour": "yellow"
         }
       }
-    }
+    },
+    "build": "64",
+    "buildTimestamp": "2014-10-01T21:05:09.396+10:00"
   },
   "main": "./lib",
   "directories": {
