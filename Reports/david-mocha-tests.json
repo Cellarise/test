@@ -5,33 +5,33 @@
     "passes": 28,
     "pending": 0,
     "failures": 2,
-    "start": "2014-10-01T13:29:31.416Z",
-    "end": "2014-10-01T13:29:35.701Z",
-    "duration": 4.285
+    "start": "2014-10-02T09:59:56.897Z",
+    "end": "2014-10-02T10:00:02.099Z",
+    "duration": 5.202
   },
   "failures": [
-    {
-      "title": "through2",
-      "fullTitle": "Dev dependencies: through2",
-      "duration": 0,
-      "error": "through2 | Required: ^0.6.1 Stable: 0.6.2"
-    },
     {
       "title": "run-sequence",
       "fullTitle": "Dev dependencies: run-sequence",
       "duration": 0,
       "error": "run-sequence | Required: ^0.3.6 Stable: 1.0.0"
+    },
+    {
+      "title": "through2",
+      "fullTitle": "Dev dependencies: through2",
+      "duration": 0,
+      "error": "through2 | Required: ^0.6.1 Stable: 0.6.2"
     }
   ],
   "passes": [
     {
-      "title": "david",
-      "fullTitle": "undefined: david",
+      "title": "async",
+      "fullTitle": "undefined: async",
       "duration": 0
     },
     {
-      "title": "async",
-      "fullTitle": "undefined: async",
+      "title": "david",
+      "fullTitle": "undefined: david",
       "duration": 0
     },
     {
@@ -40,8 +40,13 @@
       "duration": 0
     },
     {
-      "title": "gulp-concat",
-      "fullTitle": "undefined: gulp-concat",
+      "title": "gulp",
+      "fullTitle": "undefined: gulp",
+      "duration": 0
+    },
+    {
+      "title": "gulp-dust-compile-render",
+      "fullTitle": "undefined: gulp-dust-compile-render",
       "duration": 0
     },
     {
@@ -50,8 +55,8 @@
       "duration": 0
     },
     {
-      "title": "gulp-jsdoc-to-markdown",
-      "fullTitle": "undefined: gulp-jsdoc-to-markdown",
+      "title": "gulp-concat",
+      "fullTitle": "undefined: gulp-concat",
       "duration": 0
     },
     {
@@ -60,8 +65,8 @@
       "duration": 0
     },
     {
-      "title": "gulp-dust-compile-render",
-      "fullTitle": "undefined: gulp-dust-compile-render",
+      "title": "gulp-jsdoc-to-markdown",
+      "fullTitle": "undefined: gulp-jsdoc-to-markdown",
       "duration": 0
     },
     {
@@ -75,13 +80,8 @@
       "duration": 0
     },
     {
-      "title": "gulp-mocha",
-      "fullTitle": "undefined: gulp-mocha",
-      "duration": 0
-    },
-    {
-      "title": "gulp-util",
-      "fullTitle": "undefined: gulp-util",
+      "title": "gulp-rename",
+      "fullTitle": "undefined: gulp-rename",
       "duration": 0
     },
     {
@@ -90,18 +90,13 @@
       "duration": 0
     },
     {
-      "title": "gulp",
-      "fullTitle": "undefined: gulp",
+      "title": "gulp-util",
+      "fullTitle": "undefined: gulp-util",
       "duration": 0
     },
     {
-      "title": "gulp-rename",
-      "fullTitle": "undefined: gulp-rename",
-      "duration": 0
-    },
-    {
-      "title": "gulp-yadda-steps",
-      "fullTitle": "undefined: gulp-yadda-steps",
+      "title": "gulp-mocha",
+      "fullTitle": "undefined: gulp-mocha",
       "duration": 0
     },
     {
@@ -115,13 +110,13 @@
       "duration": 0
     },
     {
-      "title": "mkdirp",
-      "fullTitle": "undefined: mkdirp",
+      "title": "mocha-bamboo-reporter-bgo",
+      "fullTitle": "undefined: mocha-bamboo-reporter-bgo",
       "duration": 0
     },
     {
-      "title": "mocha-bamboo-reporter-bgo",
-      "fullTitle": "undefined: mocha-bamboo-reporter-bgo",
+      "title": "mkdirp",
+      "fullTitle": "undefined: mkdirp",
       "duration": 0
     },
     {
@@ -130,8 +125,8 @@
       "duration": 0
     },
     {
-      "title": "npm-license",
-      "fullTitle": "undefined: npm-license",
+      "title": "oauth-rest-atlassian",
+      "fullTitle": "undefined: oauth-rest-atlassian",
       "duration": 0
     },
     {
@@ -140,13 +135,18 @@
       "duration": 0
     },
     {
-      "title": "oauth-rest-atlassian",
-      "fullTitle": "undefined: oauth-rest-atlassian",
+      "title": "underscore",
+      "fullTitle": "undefined: underscore",
       "duration": 0
     },
     {
-      "title": "underscore",
-      "fullTitle": "undefined: underscore",
+      "title": "npm-license",
+      "fullTitle": "undefined: npm-license",
+      "duration": 0
+    },
+    {
+      "title": "gulp-yadda-steps",
+      "fullTitle": "undefined: gulp-yadda-steps",
       "duration": 0
     },
     {

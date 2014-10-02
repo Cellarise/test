@@ -12,7 +12,7 @@
         "keyword": "Scenario",
         "name": "JSHint - index.js",
         "line": 3,
-        "description": " - C:\\Atlassian\\NPM\\cellarise-package-manager\\Auto_Build\\lib\\index.js",
+        "description": " - c:\\Atlassian\\NPM\\cellarise-package-manager\\Auto_Build\\lib\\index.js",
         "type": "scenario",
         "steps": [
           {
