@@ -5,16 +5,16 @@
     "passes": 28,
     "pending": 0,
     "failures": 2,
-    "start": "2014-10-02T10:05:51.711Z",
-    "end": "2014-10-02T10:05:55.103Z",
-    "duration": 3.392
+    "start": "2014-10-03T05:21:13.843Z",
+    "end": "2014-10-03T05:21:40.128Z",
+    "duration": 26.285
   },
   "failures": [
     {
       "title": "run-sequence",
       "fullTitle": "Dev dependencies: run-sequence",
       "duration": 0,
-      "error": "run-sequence | Required: ^0.3.6 Stable: 1.0.0"
+      "error": "run-sequence | Required: ^0.3.6 Stable: 1.0.1"
     },
     {
       "title": "through2",
@@ -25,13 +25,18 @@
   ],
   "passes": [
     {
-      "title": "gulp",
-      "fullTitle": "undefined: gulp",
+      "title": "david",
+      "fullTitle": "undefined: david",
       "duration": 0
     },
     {
-      "title": "david",
-      "fullTitle": "undefined: david",
+      "title": "glob",
+      "fullTitle": "undefined: glob",
+      "duration": 0
+    },
+    {
+      "title": "gulp-async-func-runner",
+      "fullTitle": "undefined: gulp-async-func-runner",
       "duration": 0
     },
     {
@@ -40,8 +45,8 @@
       "duration": 0
     },
     {
-      "title": "gulp-async-func-runner",
-      "fullTitle": "undefined: gulp-async-func-runner",
+      "title": "gulp",
+      "fullTitle": "undefined: gulp",
       "duration": 0
     },
     {
@@ -65,11 +70,6 @@
       "duration": 0
     },
     {
-      "title": "glob",
-      "fullTitle": "undefined: glob",
-      "duration": 0
-    },
-    {
       "title": "gulp-jshint",
       "fullTitle": "undefined: gulp-jshint",
       "duration": 0
@@ -80,23 +80,8 @@
       "duration": 0
     },
     {
-      "title": "gulp-load-params",
-      "fullTitle": "undefined: gulp-load-params",
-      "duration": 0
-    },
-    {
       "title": "gulp-mocha",
       "fullTitle": "undefined: gulp-mocha",
-      "duration": 0
-    },
-    {
-      "title": "gulp-yadda-steps",
-      "fullTitle": "undefined: gulp-yadda-steps",
-      "duration": 0
-    },
-    {
-      "title": "gulp-util",
-      "fullTitle": "undefined: gulp-util",
       "duration": 0
     },
     {
@@ -105,18 +90,18 @@
       "duration": 0
     },
     {
+      "title": "gulp-load-params",
+      "fullTitle": "undefined: gulp-load-params",
+      "duration": 0
+    },
+    {
+      "title": "gulp-yadda-steps",
+      "fullTitle": "undefined: gulp-yadda-steps",
+      "duration": 0
+    },
+    {
       "title": "istanbul-reporter-clover-limits",
       "fullTitle": "undefined: istanbul-reporter-clover-limits",
-      "duration": 0
-    },
-    {
-      "title": "mkdirp",
-      "fullTitle": "undefined: mkdirp",
-      "duration": 0
-    },
-    {
-      "title": "mocha-bamboo-reporter-bgo",
-      "fullTitle": "undefined: mocha-bamboo-reporter-bgo",
       "duration": 0
     },
     {
@@ -125,8 +110,23 @@
       "duration": 0
     },
     {
+      "title": "mocha-bamboo-reporter-bgo",
+      "fullTitle": "undefined: mocha-bamboo-reporter-bgo",
+      "duration": 0
+    },
+    {
+      "title": "mkdirp",
+      "fullTitle": "undefined: mkdirp",
+      "duration": 0
+    },
+    {
       "title": "node-dir-diff",
       "fullTitle": "undefined: node-dir-diff",
+      "duration": 0
+    },
+    {
+      "title": "gulp-util",
+      "fullTitle": "undefined: gulp-util",
       "duration": 0
     },
     {
@@ -135,8 +135,23 @@
       "duration": 0
     },
     {
+      "title": "oauth-rest-atlassian",
+      "fullTitle": "undefined: oauth-rest-atlassian",
+      "duration": 0
+    },
+    {
+      "title": "yadda",
+      "fullTitle": "undefined: yadda",
+      "duration": 0
+    },
+    {
       "title": "underscore",
       "fullTitle": "undefined: underscore",
+      "duration": 0
+    },
+    {
+      "title": "webpack",
+      "fullTitle": "undefined: webpack",
       "duration": 0
     },
     {
@@ -147,21 +162,6 @@
     {
       "title": "npm",
       "fullTitle": "undefined: npm",
-      "duration": 0
-    },
-    {
-      "title": "yadda",
-      "fullTitle": "undefined: yadda",
-      "duration": 0
-    },
-    {
-      "title": "webpack",
-      "fullTitle": "undefined: webpack",
-      "duration": 0
-    },
-    {
-      "title": "oauth-rest-atlassian",
-      "fullTitle": "undefined: oauth-rest-atlassian",
       "duration": 0
     }
   ],

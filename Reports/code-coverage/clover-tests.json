@@ -5,15 +5,15 @@
     "passes": 1,
     "pending": 0,
     "failures": 0,
-    "start": "2014-10-02T10:06:02.362Z",
-    "end": "2014-10-02T10:06:02.363Z",
+    "start": "2014-10-03T05:21:54.997Z",
+    "end": "2014-10-03T05:21:54.998Z",
     "duration": 1
   },
   "failures": [],
   "passes": [
     {
       "title": "Coverage: index.js",
-      "fullTitle": "Coverage: c:\\Atlassian\\NPM\\cellarise-package-manager\\Auto_Build\\lib\\index.js",
+      "fullTitle": "Coverage: C:\\Atlassian\\NPM\\cellarise-package-manager\\Auto_Build\\lib\\index.js",
       "duration": 0
     }
   ],
