@@ -5,33 +5,38 @@
     "passes": 28,
     "pending": 0,
     "failures": 2,
-    "start": "2014-10-03T05:21:13.843Z",
-    "end": "2014-10-03T05:21:40.128Z",
-    "duration": 26.285
+    "start": "2014-10-03T05:45:38.373Z",
+    "end": "2014-10-03T05:45:43.685Z",
+    "duration": 5.312
   },
   "failures": [
-    {
-      "title": "run-sequence",
-      "fullTitle": "Dev dependencies: run-sequence",
-      "duration": 0,
-      "error": "run-sequence | Required: ^0.3.6 Stable: 1.0.1"
-    },
     {
       "title": "through2",
       "fullTitle": "Dev dependencies: through2",
       "duration": 0,
       "error": "through2 | Required: ^0.6.1 Stable: 0.6.2"
+    },
+    {
+      "title": "run-sequence",
+      "fullTitle": "Dev dependencies: run-sequence",
+      "duration": 0,
+      "error": "run-sequence | Required: ^0.3.6 Stable: 1.0.1"
     }
   ],
   "passes": [
     {
-      "title": "david",
-      "fullTitle": "undefined: david",
+      "title": "glob",
+      "fullTitle": "undefined: glob",
       "duration": 0
     },
     {
-      "title": "glob",
-      "fullTitle": "undefined: glob",
+      "title": "async",
+      "fullTitle": "undefined: async",
+      "duration": 0
+    },
+    {
+      "title": "gulp",
+      "fullTitle": "undefined: gulp",
       "duration": 0
     },
     {
@@ -45,18 +50,13 @@
       "duration": 0
     },
     {
-      "title": "gulp",
-      "fullTitle": "undefined: gulp",
-      "duration": 0
-    },
-    {
       "title": "gulp-dust-compile-render",
       "fullTitle": "undefined: gulp-dust-compile-render",
       "duration": 0
     },
     {
-      "title": "gulp-istanbul-custom-reports",
-      "fullTitle": "undefined: gulp-istanbul-custom-reports",
+      "title": "david",
+      "fullTitle": "undefined: david",
       "duration": 0
     },
     {
@@ -65,13 +65,18 @@
       "duration": 0
     },
     {
-      "title": "async",
-      "fullTitle": "undefined: async",
+      "title": "gulp-jshint",
+      "fullTitle": "undefined: gulp-jshint",
       "duration": 0
     },
     {
-      "title": "gulp-jshint",
-      "fullTitle": "undefined: gulp-jshint",
+      "title": "gulp-istanbul-custom-reports",
+      "fullTitle": "undefined: gulp-istanbul-custom-reports",
+      "duration": 0
+    },
+    {
+      "title": "gulp-load-params",
+      "fullTitle": "undefined: gulp-load-params",
       "duration": 0
     },
     {
@@ -90,11 +95,6 @@
       "duration": 0
     },
     {
-      "title": "gulp-load-params",
-      "fullTitle": "undefined: gulp-load-params",
-      "duration": 0
-    },
-    {
       "title": "gulp-yadda-steps",
       "fullTitle": "undefined: gulp-yadda-steps",
       "duration": 0
@@ -110,8 +110,8 @@
       "duration": 0
     },
     {
-      "title": "mocha-bamboo-reporter-bgo",
-      "fullTitle": "undefined: mocha-bamboo-reporter-bgo",
+      "title": "gulp-util",
+      "fullTitle": "undefined: gulp-util",
       "duration": 0
     },
     {
@@ -120,13 +120,13 @@
       "duration": 0
     },
     {
-      "title": "node-dir-diff",
-      "fullTitle": "undefined: node-dir-diff",
+      "title": "mocha-bamboo-reporter-bgo",
+      "fullTitle": "undefined: mocha-bamboo-reporter-bgo",
       "duration": 0
     },
     {
-      "title": "gulp-util",
-      "fullTitle": "undefined: gulp-util",
+      "title": "node-dir-diff",
+      "fullTitle": "undefined: node-dir-diff",
       "duration": 0
     },
     {
@@ -140,18 +140,8 @@
       "duration": 0
     },
     {
-      "title": "yadda",
-      "fullTitle": "undefined: yadda",
-      "duration": 0
-    },
-    {
       "title": "underscore",
       "fullTitle": "undefined: underscore",
-      "duration": 0
-    },
-    {
-      "title": "webpack",
-      "fullTitle": "undefined: webpack",
       "duration": 0
     },
     {
@@ -162,6 +152,16 @@
     {
       "title": "npm",
       "fullTitle": "undefined: npm",
+      "duration": 0
+    },
+    {
+      "title": "yadda",
+      "fullTitle": "undefined: yadda",
+      "duration": 0
+    },
+    {
+      "title": "webpack",
+      "fullTitle": "undefined: webpack",
       "duration": 0
     }
   ],
