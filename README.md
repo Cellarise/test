@@ -55,7 +55,7 @@ var Cellarise/Test = require('Cellarise/Test');
    </tr>
 
   <tr>
-    <td colspan=4><strong>Version: 0.0.2 - released 2014-10-03</strong></td>
+    <td colspan=4><strong>Version: 0.0.2 - released 2014-10-04</strong></td>
    </tr>
 
   <tr>

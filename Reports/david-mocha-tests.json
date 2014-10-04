@@ -5,9 +5,9 @@
     "passes": 28,
     "pending": 0,
     "failures": 2,
-    "start": "2014-10-03T05:45:38.373Z",
-    "end": "2014-10-03T05:45:43.685Z",
-    "duration": 5.312
+    "start": "2014-10-04T01:00:45.439Z",
+    "end": "2014-10-04T01:00:49.182Z",
+    "duration": 3.743
   },
   "failures": [
     {
@@ -25,23 +25,28 @@
   ],
   "passes": [
     {
-      "title": "glob",
-      "fullTitle": "undefined: glob",
-      "duration": 0
-    },
-    {
       "title": "async",
       "fullTitle": "undefined: async",
       "duration": 0
     },
     {
-      "title": "gulp",
-      "fullTitle": "undefined: gulp",
+      "title": "david",
+      "fullTitle": "undefined: david",
+      "duration": 0
+    },
+    {
+      "title": "glob",
+      "fullTitle": "undefined: glob",
       "duration": 0
     },
     {
       "title": "gulp-async-func-runner",
       "fullTitle": "undefined: gulp-async-func-runner",
+      "duration": 0
+    },
+    {
+      "title": "gulp",
+      "fullTitle": "undefined: gulp",
       "duration": 0
     },
     {
@@ -55,8 +60,8 @@
       "duration": 0
     },
     {
-      "title": "david",
-      "fullTitle": "undefined: david",
+      "title": "gulp-istanbul-custom-reports",
+      "fullTitle": "undefined: gulp-istanbul-custom-reports",
       "duration": 0
     },
     {
@@ -70,18 +75,13 @@
       "duration": 0
     },
     {
-      "title": "gulp-istanbul-custom-reports",
-      "fullTitle": "undefined: gulp-istanbul-custom-reports",
+      "title": "gulp-json-editor",
+      "fullTitle": "undefined: gulp-json-editor",
       "duration": 0
     },
     {
       "title": "gulp-load-params",
       "fullTitle": "undefined: gulp-load-params",
-      "duration": 0
-    },
-    {
-      "title": "gulp-json-editor",
-      "fullTitle": "undefined: gulp-json-editor",
       "duration": 0
     },
     {
@@ -92,6 +92,11 @@
     {
       "title": "gulp-rename",
       "fullTitle": "undefined: gulp-rename",
+      "duration": 0
+    },
+    {
+      "title": "gulp-util",
+      "fullTitle": "undefined: gulp-util",
       "duration": 0
     },
     {
@@ -107,11 +112,6 @@
     {
       "title": "jshint-reporter-bamboo",
       "fullTitle": "undefined: jshint-reporter-bamboo",
-      "duration": 0
-    },
-    {
-      "title": "gulp-util",
-      "fullTitle": "undefined: gulp-util",
       "duration": 0
     },
     {
