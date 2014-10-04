@@ -5,15 +5,15 @@
     "passes": 1,
     "pending": 0,
     "failures": 0,
-    "start": "2014-10-04T07:34:32.384Z",
-    "end": "2014-10-04T07:34:32.385Z",
-    "duration": 1
+    "start": "2014-10-04T07:35:12.715Z",
+    "end": "2014-10-04T07:35:12.715Z",
+    "duration": 0
   },
   "failures": [],
   "passes": [
     {
       "title": "Coverage: index.js",
-      "fullTitle": "Coverage: C:\\Atlassian\\NPM\\cellarise-package-manager\\Auto_Build\\lib\\index.js",
+      "fullTitle": "Coverage: C:\\bamboo\\SRC\\CELLARISE-MDTEST-JOB1\\lib\\index.js",
       "duration": 0
     }
   ],
