@@ -5,30 +5,25 @@
     "passes": 28,
     "pending": 0,
     "failures": 2,
-    "start": "2014-10-04T01:00:45.439Z",
-    "end": "2014-10-04T01:00:49.182Z",
-    "duration": 3.743
+    "start": "2014-10-04T01:20:23.968Z",
+    "end": "2014-10-04T01:20:27.482Z",
+    "duration": 3.514
   },
   "failures": [
-    {
-      "title": "through2",
-      "fullTitle": "Dev dependencies: through2",
-      "duration": 0,
-      "error": "through2 | Required: ^0.6.1 Stable: 0.6.2"
-    },
     {
       "title": "run-sequence",
       "fullTitle": "Dev dependencies: run-sequence",
       "duration": 0,
       "error": "run-sequence | Required: ^0.3.6 Stable: 1.0.1"
+    },
+    {
+      "title": "through2",
+      "fullTitle": "Dev dependencies: through2",
+      "duration": 0,
+      "error": "through2 | Required: ^0.6.1 Stable: 0.6.2"
     }
   ],
   "passes": [
-    {
-      "title": "async",
-      "fullTitle": "undefined: async",
-      "duration": 0
-    },
     {
       "title": "david",
       "fullTitle": "undefined: david",
@@ -40,13 +35,18 @@
       "duration": 0
     },
     {
+      "title": "gulp",
+      "fullTitle": "undefined: gulp",
+      "duration": 0
+    },
+    {
       "title": "gulp-async-func-runner",
       "fullTitle": "undefined: gulp-async-func-runner",
       "duration": 0
     },
     {
-      "title": "gulp",
-      "fullTitle": "undefined: gulp",
+      "title": "async",
+      "fullTitle": "undefined: async",
       "duration": 0
     },
     {
@@ -65,11 +65,6 @@
       "duration": 0
     },
     {
-      "title": "gulp-jsdoc-to-markdown",
-      "fullTitle": "undefined: gulp-jsdoc-to-markdown",
-      "duration": 0
-    },
-    {
       "title": "gulp-jshint",
       "fullTitle": "undefined: gulp-jshint",
       "duration": 0
@@ -77,6 +72,11 @@
     {
       "title": "gulp-json-editor",
       "fullTitle": "undefined: gulp-json-editor",
+      "duration": 0
+    },
+    {
+      "title": "gulp-jsdoc-to-markdown",
+      "fullTitle": "undefined: gulp-jsdoc-to-markdown",
       "duration": 0
     },
     {
@@ -105,18 +105,8 @@
       "duration": 0
     },
     {
-      "title": "istanbul-reporter-clover-limits",
-      "fullTitle": "undefined: istanbul-reporter-clover-limits",
-      "duration": 0
-    },
-    {
       "title": "jshint-reporter-bamboo",
       "fullTitle": "undefined: jshint-reporter-bamboo",
-      "duration": 0
-    },
-    {
-      "title": "mkdirp",
-      "fullTitle": "undefined: mkdirp",
       "duration": 0
     },
     {
@@ -125,13 +115,18 @@
       "duration": 0
     },
     {
-      "title": "node-dir-diff",
-      "fullTitle": "undefined: node-dir-diff",
+      "title": "istanbul-reporter-clover-limits",
+      "fullTitle": "undefined: istanbul-reporter-clover-limits",
       "duration": 0
     },
     {
-      "title": "npm-license",
-      "fullTitle": "undefined: npm-license",
+      "title": "mkdirp",
+      "fullTitle": "undefined: mkdirp",
+      "duration": 0
+    },
+    {
+      "title": "node-dir-diff",
+      "fullTitle": "undefined: node-dir-diff",
       "duration": 0
     },
     {
@@ -140,13 +135,18 @@
       "duration": 0
     },
     {
-      "title": "underscore",
-      "fullTitle": "undefined: underscore",
+      "title": "should",
+      "fullTitle": "undefined: should",
       "duration": 0
     },
     {
-      "title": "should",
-      "fullTitle": "undefined: should",
+      "title": "npm-license",
+      "fullTitle": "undefined: npm-license",
+      "duration": 0
+    },
+    {
+      "title": "underscore",
+      "fullTitle": "undefined: underscore",
       "duration": 0
     },
     {

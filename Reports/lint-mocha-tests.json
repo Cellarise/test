@@ -5,16 +5,16 @@
     "passes": 1,
     "pending": 0,
     "failures": 0,
-    "duration": 32,
-    "start": "2014-10-04T01:00:54.492Z",
-    "end": "2014-10-04T01:00:54.524Z"
+    "duration": 31,
+    "start": "2014-10-04T01:20:32.757Z",
+    "end": "2014-10-04T01:20:32.788Z"
   },
   "failures": [],
   "passes": [
     {
       "title": "JSHint index.js",
       "fullTitle": " C:\\Atlassian\\NPM\\cellarise-package-manager\\Auto_Build\\lib\\index.js",
-      "duration": 32
+      "duration": 31
     }
   ],
   "skipped": []
