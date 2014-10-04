@@ -5,16 +5,16 @@
     "passes": 1,
     "pending": 0,
     "failures": 0,
-    "duration": 32,
-    "start": "2014-10-04T12:57:16.454Z",
-    "end": "2014-10-04T12:57:16.486Z"
+    "duration": 46,
+    "start": "2014-10-04T13:49:27.278Z",
+    "end": "2014-10-04T13:49:27.324Z"
   },
   "failures": [],
   "passes": [
     {
       "title": "JSHint index.js",
       "fullTitle": " C:\\bamboo\\SRC\\CELLARISE-MDTEST-JOB1\\lib\\index.js",
-      "duration": 32
+      "duration": 46
     }
   ],
   "skipped": []
