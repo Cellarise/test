@@ -5,9 +5,9 @@
     "passes": 28,
     "pending": 0,
     "failures": 2,
-    "start": "2014-10-04T01:20:23.968Z",
-    "end": "2014-10-04T01:20:27.482Z",
-    "duration": 3.514
+    "start": "2014-10-04T01:31:20.994Z",
+    "end": "2014-10-04T01:31:25.296Z",
+    "duration": 4.302
   },
   "failures": [
     {
@@ -24,6 +24,11 @@
     }
   ],
   "passes": [
+    {
+      "title": "async",
+      "fullTitle": "undefined: async",
+      "duration": 0
+    },
     {
       "title": "david",
       "fullTitle": "undefined: david",
@@ -42,11 +47,6 @@
     {
       "title": "gulp-async-func-runner",
       "fullTitle": "undefined: gulp-async-func-runner",
-      "duration": 0
-    },
-    {
-      "title": "async",
-      "fullTitle": "undefined: async",
       "duration": 0
     },
     {
@@ -70,13 +70,13 @@
       "duration": 0
     },
     {
-      "title": "gulp-json-editor",
-      "fullTitle": "undefined: gulp-json-editor",
+      "title": "gulp-jsdoc-to-markdown",
+      "fullTitle": "undefined: gulp-jsdoc-to-markdown",
       "duration": 0
     },
     {
-      "title": "gulp-jsdoc-to-markdown",
-      "fullTitle": "undefined: gulp-jsdoc-to-markdown",
+      "title": "gulp-json-editor",
+      "fullTitle": "undefined: gulp-json-editor",
       "duration": 0
     },
     {
@@ -95,23 +95,13 @@
       "duration": 0
     },
     {
-      "title": "gulp-util",
-      "fullTitle": "undefined: gulp-util",
-      "duration": 0
-    },
-    {
       "title": "gulp-yadda-steps",
       "fullTitle": "undefined: gulp-yadda-steps",
       "duration": 0
     },
     {
-      "title": "jshint-reporter-bamboo",
-      "fullTitle": "undefined: jshint-reporter-bamboo",
-      "duration": 0
-    },
-    {
-      "title": "mocha-bamboo-reporter-bgo",
-      "fullTitle": "undefined: mocha-bamboo-reporter-bgo",
+      "title": "gulp-util",
+      "fullTitle": "undefined: gulp-util",
       "duration": 0
     },
     {
@@ -125,8 +115,18 @@
       "duration": 0
     },
     {
+      "title": "jshint-reporter-bamboo",
+      "fullTitle": "undefined: jshint-reporter-bamboo",
+      "duration": 0
+    },
+    {
       "title": "node-dir-diff",
       "fullTitle": "undefined: node-dir-diff",
+      "duration": 0
+    },
+    {
+      "title": "npm-license",
+      "fullTitle": "undefined: npm-license",
       "duration": 0
     },
     {
@@ -140,13 +140,8 @@
       "duration": 0
     },
     {
-      "title": "npm-license",
-      "fullTitle": "undefined: npm-license",
-      "duration": 0
-    },
-    {
-      "title": "underscore",
-      "fullTitle": "undefined: underscore",
+      "title": "mocha-bamboo-reporter-bgo",
+      "fullTitle": "undefined: mocha-bamboo-reporter-bgo",
       "duration": 0
     },
     {
@@ -162,6 +157,11 @@
     {
       "title": "webpack",
       "fullTitle": "undefined: webpack",
+      "duration": 0
+    },
+    {
+      "title": "underscore",
+      "fullTitle": "undefined: underscore",
       "duration": 0
     }
   ],
