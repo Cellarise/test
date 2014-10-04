@@ -5,9 +5,9 @@
     "passes": 28,
     "pending": 0,
     "failures": 2,
-    "start": "2014-10-04T01:31:20.994Z",
-    "end": "2014-10-04T01:31:25.296Z",
-    "duration": 4.302
+    "start": "2014-10-04T01:46:48.243Z",
+    "end": "2014-10-04T01:46:52.144Z",
+    "duration": 3.901
   },
   "failures": [
     {
@@ -30,13 +30,13 @@
       "duration": 0
     },
     {
-      "title": "david",
-      "fullTitle": "undefined: david",
+      "title": "glob",
+      "fullTitle": "undefined: glob",
       "duration": 0
     },
     {
-      "title": "glob",
-      "fullTitle": "undefined: glob",
+      "title": "david",
+      "fullTitle": "undefined: david",
       "duration": 0
     },
     {
@@ -65,23 +65,18 @@
       "duration": 0
     },
     {
-      "title": "gulp-jshint",
-      "fullTitle": "undefined: gulp-jshint",
-      "duration": 0
-    },
-    {
       "title": "gulp-jsdoc-to-markdown",
       "fullTitle": "undefined: gulp-jsdoc-to-markdown",
       "duration": 0
     },
     {
-      "title": "gulp-json-editor",
-      "fullTitle": "undefined: gulp-json-editor",
+      "title": "gulp-jshint",
+      "fullTitle": "undefined: gulp-jshint",
       "duration": 0
     },
     {
-      "title": "gulp-load-params",
-      "fullTitle": "undefined: gulp-load-params",
+      "title": "gulp-json-editor",
+      "fullTitle": "undefined: gulp-json-editor",
       "duration": 0
     },
     {
@@ -95,8 +90,8 @@
       "duration": 0
     },
     {
-      "title": "gulp-yadda-steps",
-      "fullTitle": "undefined: gulp-yadda-steps",
+      "title": "gulp-load-params",
+      "fullTitle": "undefined: gulp-load-params",
       "duration": 0
     },
     {
@@ -105,8 +100,18 @@
       "duration": 0
     },
     {
+      "title": "gulp-yadda-steps",
+      "fullTitle": "undefined: gulp-yadda-steps",
+      "duration": 0
+    },
+    {
       "title": "istanbul-reporter-clover-limits",
       "fullTitle": "undefined: istanbul-reporter-clover-limits",
+      "duration": 0
+    },
+    {
+      "title": "jshint-reporter-bamboo",
+      "fullTitle": "undefined: jshint-reporter-bamboo",
       "duration": 0
     },
     {
@@ -115,8 +120,8 @@
       "duration": 0
     },
     {
-      "title": "jshint-reporter-bamboo",
-      "fullTitle": "undefined: jshint-reporter-bamboo",
+      "title": "mocha-bamboo-reporter-bgo",
+      "fullTitle": "undefined: mocha-bamboo-reporter-bgo",
       "duration": 0
     },
     {
@@ -140,8 +145,8 @@
       "duration": 0
     },
     {
-      "title": "mocha-bamboo-reporter-bgo",
-      "fullTitle": "undefined: mocha-bamboo-reporter-bgo",
+      "title": "underscore",
+      "fullTitle": "undefined: underscore",
       "duration": 0
     },
     {
@@ -150,18 +155,13 @@
       "duration": 0
     },
     {
-      "title": "yadda",
-      "fullTitle": "undefined: yadda",
-      "duration": 0
-    },
-    {
       "title": "webpack",
       "fullTitle": "undefined: webpack",
       "duration": 0
     },
     {
-      "title": "underscore",
-      "fullTitle": "undefined: underscore",
+      "title": "yadda",
+      "fullTitle": "undefined: yadda",
       "duration": 0
     }
   ],
