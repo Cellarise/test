@@ -61,7 +61,7 @@ var Cellarise/Test = require('Cellarise/Test');
   <tr>
     <td style="width:20px;text-align:center;"><img src='https://jira.cellarise.com/secure/viewavatar?size=xsmall&amp;avatarId=10419&amp;avatarType=issuetype'/></td> 
     <td style="width:80px;text-align:center;">Non-functional</td> 
-    <td style="width:80px;text-align:left;">MDTEST-183</td>
+    <td style="width:80px;text-align:left;">MDTEST-184</td>
     <td>Package: Test</td>
    </tr>
 
