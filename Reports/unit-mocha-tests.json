@@ -5,8 +5,8 @@
     "passes": 9,
     "pending": 0,
     "failures": 0,
-    "start": "2014-10-04T14:45:36.981Z",
-    "end": "2014-10-04T14:45:36.996Z",
+    "start": "2014-10-05T12:18:32.244Z",
+    "end": "2014-10-05T12:18:32.259Z",
     "duration": 15
   },
   "failures": [],
@@ -14,12 +14,12 @@
     {
       "title": "Given A",
       "fullTitle": "Feature2 Feature2 Given A",
-      "duration": 0
+      "duration": 15
     },
     {
       "title": "When B",
       "fullTitle": "Feature2 Feature2 When B",
-      "duration": 15
+      "duration": 0
     },
     {
       "title": "Then C",
