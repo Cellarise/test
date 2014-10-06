@@ -37,13 +37,13 @@ npm install -g Cellarise/Test
    </tr>
 
   <tr>
-    <td colspan=4><strong>Version: 0.0.5 - released 2014-10-05</strong></td>
+    <td colspan=4><strong>Version: 0.0.8 - released 2014-10-06</strong></td>
    </tr>
 
   <tr>
     <td style="width:20px;text-align:center;"><img src='https://jira.cellarise.com/secure/viewavatar?size=xsmall&amp;avatarId=10419&amp;avatarType=issuetype'/></td> 
     <td style="width:80px;text-align:center;">Non-functional</td> 
-    <td style="width:80px;text-align:left;">MDTEST-185</td>
+    <td style="width:80px;text-align:left;">MDTEST-191</td>
     <td>Package: Test</td>
    </tr>
 
