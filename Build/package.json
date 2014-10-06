@@ -2,7 +2,7 @@
   "author": "John Barry",
   "name": "Cellarise/Test",
   "description": ".",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "license": "Cellarise License",
   "repository": {
     "type": "git",
@@ -44,8 +44,8 @@
         }
       }
     },
-    "build": "162",
-    "buildTimestamp": "2014-10-06T19:18:04.080+10:00"
+    "build": "164",
+    "buildTimestamp": "2014-10-06T19:20:09.187+10:00"
   },
   "main": "./lib",
   "directories": {
