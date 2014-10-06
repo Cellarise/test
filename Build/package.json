@@ -44,8 +44,8 @@
         }
       }
     },
-    "build": "180",
-    "buildTimestamp": "2014-10-06T21:12:57.333+10:00"
+    "build": "182",
+    "buildTimestamp": "2014-10-06T21:33:46.152+10:00"
   },
   "main": "./lib",
   "directories": {
