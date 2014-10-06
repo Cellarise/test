@@ -5,9 +5,9 @@
     "passes": 9,
     "pending": 0,
     "failures": 0,
-    "start": "2014-10-06T07:06:15.568Z",
-    "end": "2014-10-06T07:06:15.583Z",
-    "duration": 15
+    "start": "2014-10-06T09:18:09.876Z",
+    "end": "2014-10-06T09:18:09.907Z",
+    "duration": 31
   },
   "failures": [],
   "passes": [
