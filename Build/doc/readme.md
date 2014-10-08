@@ -42,7 +42,7 @@ npm install -g Cellarise/Test
 
 # License
 
-Cellarise License. All rights not explicitly granted in the license are reserved.
+MIT License (MIT). All rights not explicitly granted in the license are reserved.
 
 Copyright (c) 2014 John Barry
 

@@ -3,13 +3,13 @@
   "name": "Cellarise/Test",
   "description": ".",
   "version": "0.0.4",
-  "license": "Cellarise License",
+  "license": "MIT License (MIT)",
   "repository": {
     "type": "git",
     "url": "https://github.com/Cellarise/Test.git"
   },
   "publishConfig": {
-    "registry": "http://registry.cellarise.com:4873"
+    "registry": "https://registry.npmjs.org"
   },
   "config": {
     "adminEmail": "admin@cellarise.com",
@@ -44,8 +44,8 @@
         }
       }
     },
-    "build": "200",
-    "buildTimestamp": "2014-10-08T22:57:51.814+10:00"
+    "build": "204",
+    "buildTimestamp": "2014-10-08T23:06:29.073+10:00"
   },
   "main": "./lib",
   "directories": {
@@ -81,10 +81,9 @@
     "mkdirp": "^0.5.0",
     "mocha-bamboo-reporter-bgo": "^1.0.7",
     "node-dir-diff": "0.0.1",
-    "npm": "^2.0.0",
     "npm-license": "^0.2.2",
     "oauth-rest-atlassian": "^0.4.0",
-    "run-sequence": "^0.3.6",
+    "run-sequence": "^1.0.0",
     "should": "^4.0.4",
     "through2": "^0.6.1",
     "underscore": "^1.6.0",
