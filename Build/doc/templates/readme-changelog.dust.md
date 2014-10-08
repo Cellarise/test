@@ -8,4 +8,16 @@
     <th style="text-align:left;">Summary</th>
    </tr>
 
+  <tr>
+    <td colspan=4><strong>Version: 0.0.4 - released 2014-10-09</strong></td>
+   </tr>
+
+  <tr>
+    <td style="width:20px;text-align:center;"><img src='https://jira.cellarise.com/secure/viewavatar?size=xsmall&amp;avatarId=10419&amp;avatarType=issuetype'/></td> 
+    <td style="width:80px;text-align:center;">Non-functional</td> 
+    <td style="width:80px;text-align:left;">MDTEST-230</td>
+    <td>Package: Test</td>
+   </tr>
+
+
 </table>

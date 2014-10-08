@@ -5,16 +5,16 @@
     "passes": 9,
     "pending": 0,
     "failures": 0,
-    "start": "2014-10-08T13:32:14.412Z",
-    "end": "2014-10-08T13:32:14.443Z",
-    "duration": 31
+    "start": "2014-10-08T14:08:30.909Z",
+    "end": "2014-10-08T14:08:30.924Z",
+    "duration": 15
   },
   "failures": [],
   "passes": [
     {
       "title": "Given A",
       "fullTitle": "Feature2 Feature2 Given A",
-      "duration": 16
+      "duration": 0
     },
     {
       "title": "When B",
@@ -54,7 +54,7 @@
     {
       "title": "Then C",
       "fullTitle": "Initial setup Initial setup Then C",
-      "duration": 15
+      "duration": 0
     }
   ],
   "skipped": []
