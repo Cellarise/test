@@ -5,8 +5,8 @@
     "passes": 9,
     "pending": 0,
     "failures": 0,
-    "start": "2014-10-08T13:06:34.963Z",
-    "end": "2014-10-08T13:06:34.995Z",
+    "start": "2014-10-08T13:22:56.361Z",
+    "end": "2014-10-08T13:22:56.393Z",
     "duration": 32
   },
   "failures": [],
@@ -44,7 +44,7 @@
     {
       "title": "Given A",
       "fullTitle": "Initial setup Initial setup Given A",
-      "duration": 0
+      "duration": 16
     },
     {
       "title": "When B",
