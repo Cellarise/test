@@ -5,9 +5,9 @@
     "passes": 9,
     "pending": 0,
     "failures": 0,
-    "start": "2014-10-08T13:22:56.361Z",
-    "end": "2014-10-08T13:22:56.393Z",
-    "duration": 32
+    "start": "2014-10-08T13:32:14.412Z",
+    "end": "2014-10-08T13:32:14.443Z",
+    "duration": 31
   },
   "failures": [],
   "passes": [
@@ -44,7 +44,7 @@
     {
       "title": "Given A",
       "fullTitle": "Initial setup Initial setup Given A",
-      "duration": 16
+      "duration": 0
     },
     {
       "title": "When B",
@@ -54,7 +54,7 @@
     {
       "title": "Then C",
       "fullTitle": "Initial setup Initial setup Then C",
-      "duration": 0
+      "duration": 15
     }
   ],
   "skipped": []
