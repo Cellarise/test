@@ -5,16 +5,16 @@
     "passes": 9,
     "pending": 0,
     "failures": 0,
-    "start": "2014-10-09T10:34:42.794Z",
-    "end": "2014-10-09T10:34:42.826Z",
-    "duration": 32
+    "start": "2014-10-09T10:44:15.339Z",
+    "end": "2014-10-09T10:44:15.354Z",
+    "duration": 15
   },
   "failures": [],
   "passes": [
     {
       "title": "Given A",
       "fullTitle": "Feature2 Feature2 Given A",
-      "duration": 16
+      "duration": 15
     },
     {
       "title": "When B",
