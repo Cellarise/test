@@ -62,7 +62,7 @@ var Cellarise/Test = require('Cellarise/Test');
 
 MIT License (MIT). All rights not explicitly granted in the license are reserved.
 
-Copyright (c) 2014 John Barry
+Copyright (c) 2015 John Barry
 
 ## Dependencies
 
