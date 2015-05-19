@@ -1,8 +1,6 @@
-/* jslint node: true */
-
+"use strict";
 /* Feature: Initial setup */
 module.exports = (function() {
-    "use strict";
     var English = require('yadda').localisation.English;
     var assert = require('assert');
     return English.library()
