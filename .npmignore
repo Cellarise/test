@@ -1,8 +1,9 @@
 node_modules/
 bower_components/
 .idea/
+.git/
 Reports/
 Build/
-docs/theme
 Temp/
-Test_Resources/
+/*.log
+atlassian-ide-plugin.xml

@@ -6,18 +6,18 @@
  * @param {Gulp} gulp - The gulp module
  */
 module.exports = function defaultTasks(gulp) {
-    var runSequence = require("run-sequence");
+  var runSequence = require("run-sequence");
 
-    /**
-     * A gulp build task to run the default tasks.
-     * The following tasks are executed in sequence: ["test"]
-     * The sequence works by piping each task to the next.
-     * @member {Gulp} default
-     * @param {Function} cb - callback
-     */
-    gulp.task("default", function defaultTask(cb) {
-        runSequence(
-          "test",
-          cb);
-    });
+  /**
+   * A gulp build task to run the default tasks.
+   * The following tasks are executed in sequence: ["test"]
+   * The sequence works by piping each task to the next.
+   * @member {Gulp} default
+   * @param {Function} cb - callback
+   */
+  gulp.task("default", function defaultTask(cb) {
+    runSequence(
+      "test",
+      cb);
+  });
 };
