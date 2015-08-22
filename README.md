@@ -2,7 +2,7 @@
 [![view on npm](http://img.shields.io/npm/v/Cellarise/Test.svg?style=flat)](https://www.npmjs.org/package/Cellarise/Test)
 [![npm module downloads per month](http://img.shields.io/npm/dm/Cellarise/Test.svg?style=flat)](https://www.npmjs.org/package/Cellarise/Test)
 [![Dependency status](https://david-dm.org/Cellarise/Cellarise/Test.svg?style=flat)](https://david-dm.org/Cellarise/Cellarise/Test)
-[![Coverage](https://img.shields.io/badge/coverage-75%25_skipped:0%25-yellow.svg?style=flat)](https://www.npmjs.org/package/Cellarise/Test)
+[![Coverage](https://img.shields.io/badge/coverage-100%25_skipped:0%25-brightgreen.svg?style=flat)](https://www.npmjs.org/package/Cellarise/Test)
 
 > .
 
@@ -21,39 +21,41 @@ npm install -g Cellarise/Test
 
 
 
-# API
+## API
 <a name="module_Cellarise/Test"></a>
-#Cellarise/Test
+### Cellarise/Test ⇒ <code>Object</code>
 .
+**Returns**: <code>Object</code> - - return description  
 
-**Params**
+| Param | Type | Default | Description |
+| --- | --- | --- | --- |
+| opts | <code>Object</code> |  | optional options |
+| [opts.modulePrefix] | <code>Object</code> | <code>&#x27;gulp-&#x27;</code> | load dependencies that start with this prefix in package.json. |
 
-- opts `Object` - optional options  
-  - \[modulePrefix='gulp-'\] `Object` - load dependencies that start with this prefix in package.json.  
-
-**Type**: `name`  
-**Returns**: `Object`  
 **Example**  
+```none
 Usage:
 ```
 var Cellarise/Test = require('Cellarise/Test');
 ```
 
+```
 
+-
 
 *documented by [jsdoc-to-markdown](https://github.com/75lb/jsdoc-to-markdown)*.
 
 
-#Changelog
+# Changelog
 
 <table style="width:100%;border-spacing:0px;border-collapse:collapse;margin:0px;padding:0px;border-width:0px;">
-   <tr>
+  <tr>
     <th style="width:20px;text-align:center;"></th>
-    <th style="width:80px;text-align:center;">Type</th> 
+    <th style="width:80px;text-align:center;">Type</th>
     <th style="width:80px;text-align:left;">ID</th>
     <th style="text-align:left;">Summary</th>
-   </tr>
-
+  </tr>
+    
 </table>
 
 
@@ -63,7 +65,6 @@ var Cellarise/Test = require('Cellarise/Test');
 MIT License (MIT). All rights not explicitly granted in the license are reserved.
 
 Copyright (c) 2015 John Barry
-
 ## Dependencies
 
 *documented by [npm-licenses](http://github.com/AceMetrix/npm-license.git)*.

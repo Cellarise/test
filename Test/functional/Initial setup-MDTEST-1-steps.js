@@ -1,12 +1,13 @@
-"use strict";
+/*eslint-disable*/
 /* Feature: Initial setup */
 module.exports = (function() {
-    var English = require('yadda').localisation.English;
-    var assert = require('assert');
+    "use strict";
+    var English = require("yadda").localisation.English;
+    var assert = require("assert");
     return English.library()
         /*Scenario: Initial setup */
         .define("Given A", function(done) {
-            var result = require('../..')();
+            var result = require("../..")("test");
             assert(result);
             done();
         })
