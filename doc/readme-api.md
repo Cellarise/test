@@ -1,6 +1,6 @@
 ## API
-<a name="module_Cellarise/Test"></a>
-### Cellarise/Test ⇒ <code>Object</code>
+<a name="module_Test"></a>
+### Test ⇒ <code>Object</code>
 .
 **Returns**: <code>Object</code> - - return description  
 
@@ -13,7 +13,7 @@
 ```none
 Usage:
 ```
-var Cellarise/Test = require('Cellarise/Test');
+var Test = require('Test');
 ```
 
 ```

@@ -1,8 +1,9 @@
-# Cellarise/Test
-[![view on npm](http://img.shields.io/npm/v/Cellarise/Test.svg?style=flat)](https://www.npmjs.org/package/Cellarise/Test)
-[![npm module downloads per month](http://img.shields.io/npm/dm/Cellarise/Test.svg?style=flat)](https://www.npmjs.org/package/Cellarise/Test)
-[![Dependency status](https://david-dm.org/Cellarise/Cellarise/Test.svg?style=flat)](https://david-dm.org/Cellarise/Cellarise/Test)
-[![Coverage](https://img.shields.io/badge/coverage-100%25_skipped:0%25-brightgreen.svg?style=flat)](https://www.npmjs.org/package/Cellarise/Test)
+# Test
+[![view on npm](http://img.shields.io/npm/v/Test.svg?style=flat)](https://www.npmjs.org/package/Test)
+[![npm module downloads per month](http://img.shields.io/npm/dm/Test.svg?style=flat)](https://www.npmjs.org/package/Test)
+[![Dependency status](https://david-dm.org/Cellarise/Test.svg?style=flat)](https://david-dm.org/Cellarise/Test)
+[![Build Status](https://travis-ci.org/Cellarise/gulp-async-func-runner.svg?branch=master)](https://travis-ci.org/Cellarise/Test)
+[![Coverage Detail](https://img.shields.io/badge/coverage detail-100%25_skipped:0%25-brightgreen.svg?style=flat)](https://www.npmjs.org/package/Test)
 
 > .
 
@@ -22,8 +23,8 @@ npm install -g Cellarise/Test
 
 
 ## API
-<a name="module_Cellarise/Test"></a>
-### Cellarise/Test ⇒ <code>Object</code>
+<a name="module_Test"></a>
+### Test ⇒ <code>Object</code>
 .
 **Returns**: <code>Object</code> - - return description  
 
@@ -36,7 +37,7 @@ npm install -g Cellarise/Test
 ```none
 Usage:
 ```
-var Cellarise/Test = require('Cellarise/Test');
+var Test = require('Test');
 ```
 
 ```
@@ -66,5 +67,5 @@ MIT License (MIT). All rights not explicitly granted in the license are reserved
 
 Copyright (c) 2015 John Barry
 ## Dependencies
-
+[Test@0.0.0](&quot;https://github.com/Cellarise/Test&quot;) - &quot;MIT License (MIT)&quot;, 
 *documented by [npm-licenses](http://github.com/AceMetrix/npm-license.git)*.
