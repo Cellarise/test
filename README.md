@@ -2,8 +2,8 @@
 [![view on npm](http://img.shields.io/npm/v/Test.svg?style=flat)](https://www.npmjs.org/package/Test)
 [![npm module downloads per month](http://img.shields.io/npm/dm/Test.svg?style=flat)](https://www.npmjs.org/package/Test)
 [![Dependency status](https://david-dm.org/Cellarise/Test.svg?style=flat)](https://david-dm.org/Cellarise/Test)
-[![Build Status](https://travis-ci.org/Cellarise/gulp-async-func-runner.svg?branch=master)](https://travis-ci.org/Cellarise/Test)
-[![Coverage Detail](https://img.shields.io/badge/coverage detail-100%25_skipped:0%25-brightgreen.svg?style=flat)](https://www.npmjs.org/package/Test)
+[![Build Status](https://travis-ci.org/Cellarise/Test.svg?branch=master)](https://travis-ci.org/Cellarise/Test)
+[![Test Coverage](https://img.shields.io/badge/coverage -100%25_skipped:0%25-brightgreen.svg?style=flat)](https://www.npmjs.org/package/Test)
 
 > .
 
