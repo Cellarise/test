@@ -17,8 +17,8 @@
   "config": {
     "private": false,
     "projectCode": "MDTEST",
-    "build": "23",
-    "buildTimestamp": "2016-05-12T08:25:02.560Z",
+    "build": "n/a",
+    "buildTimestamp": "2016-05-12T08:29:08.020Z",
     "adminEmail": "admin@cellarise.com",
     "coverage": {
       "watermarks": {
