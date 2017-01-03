@@ -6,8 +6,6 @@
 [![Test Coverage](https://img.shields.io/badge/coverage -100%25_skipped:0%25-brightgreen.svg?style=flat)](https://www.npmjs.org/package/Test)
 
 > .
-
-
 ##Installation
 
 Install as a global package to call `cpm`, `cgulp`, `cgitsh`, and `oauth` from any location.
@@ -20,10 +18,9 @@ npm install -g Cellarise/Test
 ##Usage 
 
 
-
-
 ## API
 <a name="module_Test"></a>
+
 ### Test ⇒ <code>Object</code>
 .
 **Returns**: <code>Object</code> - - return description  
@@ -45,8 +42,6 @@ var Test = require('Test');
 -
 
 *documented by [jsdoc-to-markdown](https://github.com/75lb/jsdoc-to-markdown)*.
-
-
 # Changelog
 
 <table style="width:100%;border-spacing:0px;border-collapse:collapse;margin:0px;padding:0px;border-width:0px;">
@@ -68,10 +63,8 @@ var Test = require('Test');
             <td><p>Package: Test</p><p></p></td>
           </tr>
         
-    
+
 </table>
-
-
 
 # License
 
