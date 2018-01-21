@@ -15,6 +15,20 @@
 <tr>
             <td style="width:20px;padding:0;margin:0;text-align:center;"><img src="https://jira.cellarise.com:80/secure/viewavatar?size=xsmall&amp;avatarId=10413&amp;avatarType=issuetype"/></td>
             <td style="width:80px;text-align:left;">Non-functional</td>
+            <td style="width:80px;text-align:left;">MDTEST-717</td>
+            <td><p>Package: Test</p><p></p></td>
+          </tr>
+        
+<tr>
+            <td style="width:20px;padding:0;margin:0;text-align:center;"><img src="https://jira.cellarise.com:80/secure/viewavatar?size=xsmall&amp;avatarId=10413&amp;avatarType=issuetype"/></td>
+            <td style="width:80px;text-align:left;">Non-functional</td>
+            <td style="width:80px;text-align:left;">MDTEST-716</td>
+            <td><p>Package: Test</p><p></p></td>
+          </tr>
+        
+<tr>
+            <td style="width:20px;padding:0;margin:0;text-align:center;"><img src="https://jira.cellarise.com:80/secure/viewavatar?size=xsmall&amp;avatarId=10413&amp;avatarType=issuetype"/></td>
+            <td style="width:80px;text-align:left;">Non-functional</td>
             <td style="width:80px;text-align:left;">MDTEST-715</td>
             <td><p>Package: Test</p><p></p></td>
           </tr>
