@@ -18,30 +18,14 @@
     "private": false,
     "projectCode": "MDTEST",
     "build": "23",
-    "buildTimestamp": "2018-12-18T03:25:27.918Z",
+    "buildTimestamp": "2018-12-18T13:27:36.100+10:00",
     "adminEmail": "admin@cellarise.com",
     "coverage": {
       "watermarks": {
-        "statements": [
-          50,
-          80,
-          20
-        ],
-        "lines": [
-          50,
-          80,
-          20
-        ],
-        "functions": [
-          50,
-          80,
-          20
-        ],
-        "branches": [
-          50,
-          80,
-          20
-        ]
+        "statements": [50, 80, 20],
+        "lines": [50, 80, 20],
+        "functions": [50, 80, 20],
+        "branches": [50, 80, 20]
       },
       "stats": {
         "lines": {
