@@ -14,7 +14,6 @@ Install as a global package to call `cpm`, `cgulp`, `cgitsh`, and `oauth` from a
 npm install -g Cellarise/Test
 ```
 
-
 ##Usage 
 
 
